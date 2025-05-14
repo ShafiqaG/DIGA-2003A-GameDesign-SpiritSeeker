@@ -497,7 +497,22 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      opacity spirit stone_0: 3250049263198602828
+      opacity spirit stone_1: 849170275865605837
+      opacity spirit stone_10: -5701007755493750910
+      opacity spirit stone_11: -3345985399702000120
+      opacity spirit stone_12: 6450342203672166833
+      opacity spirit stone_13: 1551953093765918977
+      opacity spirit stone_14: 5395926631448481369
+      opacity spirit stone_2: -5367505094072031587
+      opacity spirit stone_3: 2727618565180274968
+      opacity spirit stone_4: 3364249061279318855
+      opacity spirit stone_5: 7824402371973646904
+      opacity spirit stone_6: 703261254207065693
+      opacity spirit stone_7: -5789156289192057973
+      opacity spirit stone_8: 1742814990832940508
+      opacity spirit stone_9: -9156037561083843928
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

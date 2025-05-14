@@ -222,7 +222,11 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Inventory Bag no bg_0: -6419148058402036735
+      Inventory Bag no bg_1: 6684833874793718895
+      Inventory Bag no bg_2: 5119350721055005473
+      Inventory Bag no bg_3: -3512650818192068816
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
