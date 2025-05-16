@@ -8,6 +8,7 @@ TagManager:
   - Static Object
   - CmCamera
   - Border
+  - Background
   layers:
   - Default
   - TransparentFX
