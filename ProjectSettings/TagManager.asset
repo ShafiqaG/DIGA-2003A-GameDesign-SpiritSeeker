@@ -9,6 +9,7 @@ TagManager:
   - CmCamera
   - Border
   - Background
+  - gameObject
   layers:
   - Default
   - TransparentFX

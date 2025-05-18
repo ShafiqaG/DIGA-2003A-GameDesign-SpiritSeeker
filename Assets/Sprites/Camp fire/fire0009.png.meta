@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: f55e06bc84e09db4f9c0c29131871433
+guid: 35897b6179af66843bf16d87c5c3e94b
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -5200153849306032174
-    second: spikey cactus (1)_0
+      213: -8769996599941712815
+    second: fire0009_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -37,7 +37,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 0
+    filterMode: 1
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -46,13 +46,13 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 950
-  spriteBorder: {x: 1184, y: 284, z: 983, w: 386}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
   alphaIsTransparency: 1
@@ -113,23 +113,23 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: spikey cactus (1)_0
+      name: fire0009_0
       rect:
         serializedVersion: 2
-        x: 1205
-        y: 286
-        width: 1320
-        height: 1808
+        x: 1419
+        y: 728
+        width: 683
+        height: 846
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 2d7dbba20a755d7b0800000000000000
-      internalID: -5200153849306032174
+      spriteID: 154371bce86ba4680800000000000000
+      internalID: -8769996599941712815
       vertices: []
       indices: 
       edges: []
@@ -138,8 +138,8 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 5e97eb03825dee720800000000000000
-    internalID: 1537655665
+    spriteID: 
+    internalID: 0
     vertices: []
     indices: 
     edges: []
@@ -147,8 +147,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      spikey cactus (1)_0: -5200153849306032174
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

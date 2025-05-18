@@ -1,10 +1,19 @@
 fileFormatVersion: 2
-guid: f55e06bc84e09db4f9c0c29131871433
+guid: 7590c722920c09e48b286b4b445d6c3e
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -5200153849306032174
-    second: spikey cactus (1)_0
+      213: -2999017921002765983
+    second: WASD BUTTONS_0
+  - first:
+      213: -8843973132699647436
+    second: WASD BUTTONS_1
+  - first:
+      213: 8800658406695292425
+    second: WASD BUTTONS_2
+  - first:
+      213: 6070653898613972963
+    second: WASD BUTTONS_3
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -52,7 +61,7 @@ TextureImporter:
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
   spritePixelsToUnits: 950
-  spriteBorder: {x: 1184, y: 284, z: 983, w: 386}
+  spriteBorder: {x: 429, y: 882, z: 1501, w: 553}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
   alphaIsTransparency: 1
@@ -113,13 +122,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: spikey cactus (1)_0
+      name: WASD BUTTONS_0
       rect:
         serializedVersion: 2
-        x: 1205
-        y: 286
-        width: 1320
-        height: 1808
+        x: 976
+        y: 1439
+        width: 481
+        height: 480
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -128,8 +137,74 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 2d7dbba20a755d7b0800000000000000
-      internalID: -5200153849306032174
+      spriteID: 161899f17195166d0800000000000000
+      internalID: -2999017921002765983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WASD BUTTONS_1
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 905
+        width: 481
+        height: 480
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 432c65e0b45e34580800000000000000
+      internalID: -8843973132699647436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WASD BUTTONS_2
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 911
+        width: 481
+        height: 480
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90ec0a86138322a70800000000000000
+      internalID: 8800658406695292425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WASD BUTTONS_3
+      rect:
+        serializedVersion: 2
+        x: 1509
+        y: 914
+        width: 481
+        height: 480
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3efd93d9e8b4f3450800000000000000
+      internalID: 6070653898613972963
       vertices: []
       indices: 
       edges: []
@@ -148,7 +223,10 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      spikey cactus (1)_0: -5200153849306032174
+      WASD BUTTONS_0: -2999017921002765983
+      WASD BUTTONS_1: -8843973132699647436
+      WASD BUTTONS_2: 8800658406695292425
+      WASD BUTTONS_3: 6070653898613972963
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
