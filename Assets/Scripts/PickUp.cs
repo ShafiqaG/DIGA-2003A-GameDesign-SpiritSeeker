@@ -5,14 +5,19 @@ public class PickUp : MonoBehaviour
     public Inventorycontrol Inventory;
 
     public GameObject PickedItem;
+
+    AudioManager audioManager;
        void Start()
     {
         Inventory = GameObject.FindGameObjectWithTag("Inventory").GetComponent<Inventorycontrol>();
         Debug.Log(Inventory.Slots.Length);
     }
 
+    private void Awake()
+    {
+        audioManager = GameObject.FindGameObjectWithTag("Audio").GetComponent<AudioManager>();
+    }
 
-   
     void Update()
     {
         
@@ -32,10 +37,11 @@ public class PickUp : MonoBehaviour
                 else if (Inventory.Taken[i] == false)
                 {
                     Instantiate(PickedItem, Inventory.Slots[i].transform, false);
+                    audioManager.PlaySFX(audioManager.collectingwater);
                     Destroy(gameObject);
                     Inventory.Taken[i] = true;
 
-                    return;
+                    return; //makes sure that all slots are filled instead of one
                 }
             }
         }

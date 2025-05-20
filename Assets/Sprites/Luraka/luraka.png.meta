@@ -119,50 +119,6 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: luraka_0
-      rect:
-        serializedVersion: 2
-        x: 1846
-        y: 2466
-        width: 16
-        height: 14
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 31a076f9e63e930e0800000000000000
-      internalID: -2289548871280948717
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: luraka_1
-      rect:
-        serializedVersion: 2
-        x: 765
-        y: 1657
-        width: 79
-        height: 24
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: a8f87ff8fa9b2c2e0800000000000000
-      internalID: -2106917511970189430
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: luraka_2
       rect:
         serializedVersion: 2
@@ -171,7 +127,7 @@ TextureImporter:
         width: 1666
         height: 2017
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -188,7 +144,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: f19e40841842f5747a686fb948b8db6b
     internalID: 0
     vertices: []
     indices: 
@@ -197,7 +153,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      luraka_2: 5505553837833325886
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -2,8 +2,8 @@ using UnityEngine;
 
 public class Rockknockback : MonoBehaviour
 {
-    public float knockbackPower = 65;
-    public float knockbackDuration = 3;
+    public float knockbackPower = 20;
+    public float knockbackDuration = 2;
 
     private void OnCollisionEnter2D(Collision2D other)
     {

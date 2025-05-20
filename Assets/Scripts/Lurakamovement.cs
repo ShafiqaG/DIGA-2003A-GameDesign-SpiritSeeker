@@ -1,7 +1,9 @@
 using System.Collections;
 using System.Runtime.CompilerServices;
 using System.Threading;
+using NUnit.Framework.Constraints;
 using UnityEngine;
+using UnityEngine.InputSystem;
 
 public class Lurakamovement : MonoBehaviour
 
@@ -10,6 +12,7 @@ public class Lurakamovement : MonoBehaviour
     public float moveSpeed = 5f;
     private Rigidbody2D rb;
     private Vector2 movement;
+  
 
     private void Awake()
     {
@@ -18,7 +21,7 @@ public class Lurakamovement : MonoBehaviour
 
     void Start()
     {
-        rb= GetComponent<Rigidbody2D>();  
+        rb = GetComponent<Rigidbody2D>();
     }
 
 
@@ -31,11 +34,12 @@ public class Lurakamovement : MonoBehaviour
 
     private void FixedUpdate()
     {
-        rb.MovePosition(rb.position + movement * moveSpeed * Time.fixedDeltaTime);
+        rb.MovePosition(rb.position + movement * moveSpeed * Time.deltaTime);    
     }
+
     public IEnumerator Knockback(float knockbackDuration, float knockbackPower, Transform obj)
     {
-        float timer= 0;
+        float timer = 0;
         while (knockbackDuration > timer)
         {
             timer += Time.deltaTime;
@@ -45,4 +49,5 @@ public class Lurakamovement : MonoBehaviour
 
         yield return 0;
     }
+    
 }
