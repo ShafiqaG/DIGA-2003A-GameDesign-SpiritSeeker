@@ -9,10 +9,10 @@ public class Lurakamovement : MonoBehaviour
 
 {
     public static Lurakamovement instance;
-    public float moveSpeed = 5f;
+    private float moveSpeed = 5f;
     private Rigidbody2D rb;
-    private Vector2 movement;
-  
+    private Vector2 moveInput;
+    private Animator animator;
 
     private void Awake()
     {
@@ -22,19 +22,29 @@ public class Lurakamovement : MonoBehaviour
     void Start()
     {
         rb = GetComponent<Rigidbody2D>();
+        animator = GetComponent<Animator>();
     }
 
 
     void Update()
     {
-        movement.x = Input.GetAxisRaw("Horizontal");
-        movement.y = Input.GetAxisRaw("Vertical");
-        movement = movement.normalized;
+        rb.linearVelocity = moveInput * moveSpeed;
     }
 
-    private void FixedUpdate()
+    public void Move(InputAction.CallbackContext context)
     {
-        rb.MovePosition(rb.position + movement * moveSpeed * Time.deltaTime);    
+      animator.SetBool("isWalking", true);
+
+      if (context.canceled)
+      {
+          animator.SetBool("isWalking", false);
+          animator.SetFloat("LastInputX", moveInput.x);
+          animator.SetFloat("LastInputY", moveInput.y);
+      }
+
+      moveInput = context.ReadValue<Vector2>();
+      animator.SetFloat("InputX", moveInput.x);
+      animator.SetFloat("InputY", moveInput.y);
     }
 
     public IEnumerator Knockback(float knockbackDuration, float knockbackPower, Transform obj)
