@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Transparent pause screen_0: -2896851698206223459
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -447,7 +447,20 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      NPC_0: -1940738496428130850
+      NPC_1: -6131185593638097393
+      NPC_10: -1934056534888814118
+      NPC_11: -2560980113577806444
+      NPC_12: -7597873162570248193
+      NPC_2: 5084661014962647745
+      NPC_3: -4896452150530583312
+      NPC_4: -158646377427028231
+      NPC_5: -6800826857180800239
+      NPC_6: 3690989536998896953
+      NPC_7: -2330748939010558292
+      NPC_8: 5727701227653830284
+      NPC_9: 7643970770318654025
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

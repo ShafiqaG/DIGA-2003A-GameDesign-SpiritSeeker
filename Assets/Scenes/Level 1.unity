@@ -2967,7 +2967,6 @@ GameObject:
   m_Component:
   - component: {fileID: 630724523}
   - component: {fileID: 630724522}
-  - component: {fileID: 630724525}
   - component: {fileID: 630724524}
   m_Layer: 0
   m_Name: rock_02
@@ -3092,20 +3091,6 @@ BoxCollider2D:
   m_AutoTiling: 0
   m_Size: {x: 7.2307744, y: 7.89}
   m_EdgeRadius: 0
---- !u!114 &630724525
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 630724521}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: e208946e48fd2024cbcd38a611bd619a, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  knockbackPower: 100
-  knockbackDuration: 1
 --- !u!1 &662637790
 GameObject:
   m_ObjectHideFlags: 0

@@ -222,7 +222,11 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Next button_0: 3765111319526120282
+      Next button_1: -3923847902848168158
+      Next button_2: -1576685172420201091
+      Next button_3: 7362178863313023841
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
