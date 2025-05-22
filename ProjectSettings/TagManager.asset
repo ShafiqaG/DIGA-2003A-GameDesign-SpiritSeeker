@@ -48,5 +48,11 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: Player
+    uniqueID: 3979744485
+    locked: 0
+  - name: Spikey Cactus
+    uniqueID: 4068847863
+    locked: 0
   m_RenderingLayers:
   - Default
