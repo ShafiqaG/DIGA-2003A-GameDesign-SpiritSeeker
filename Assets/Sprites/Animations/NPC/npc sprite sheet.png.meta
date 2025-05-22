@@ -1,0 +1,595 @@
+fileFormatVersion: 2
+guid: 494125dc04534b44e9eef36a687e4177
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1665063849505830809
+    second: npc sprite sheet_0
+  - first:
+      213: 4221681089460724141
+    second: npc sprite sheet_1
+  - first:
+      213: 7020112996433120115
+    second: npc sprite sheet_2
+  - first:
+      213: 5863298041956574568
+    second: npc sprite sheet_3
+  - first:
+      213: 2851170998837402121
+    second: npc sprite sheet_4
+  - first:
+      213: -1510553274946220136
+    second: npc sprite sheet_5
+  - first:
+      213: -8501745713977090208
+    second: npc sprite sheet_6
+  - first:
+      213: -7287763434510659685
+    second: npc sprite sheet_7
+  - first:
+      213: -5790546991322888086
+    second: npc sprite sheet_8
+  - first:
+      213: 2662384915293020301
+    second: npc sprite sheet_9
+  - first:
+      213: 4256071683804411066
+    second: npc sprite sheet_10
+  - first:
+      213: 3631503104629733438
+    second: npc sprite sheet_11
+  - first:
+      213: -9071226365746878419
+    second: npc sprite sheet_12
+  - first:
+      213: 1696004115141187208
+    second: npc sprite sheet_13
+  - first:
+      213: 2396620006995146971
+    second: npc sprite sheet_14
+  - first:
+      213: -1340045339653138708
+    second: npc sprite sheet_15
+  - first:
+      213: -4573002759529933403
+    second: npc sprite sheet_16
+  - first:
+      213: 7790923297036039572
+    second: npc sprite sheet_17
+  - first:
+      213: -5117447515142534126
+    second: npc sprite sheet_18
+  - first:
+      213: -3415816911689127497
+    second: npc sprite sheet_19
+  - first:
+      213: 1711843798625022003
+    second: npc sprite sheet_20
+  - first:
+      213: 7240874366808035659
+    second: npc sprite sheet_21
+  - first:
+      213: 2285077518542951378
+    second: npc sprite sheet_22
+  - first:
+      213: 1545595591364573203
+    second: npc sprite sheet_23
+  - first:
+      213: -2222480323431372837
+    second: npc sprite sheet_24
+  - first:
+      213: -9077146899521787503
+    second: npc sprite sheet_25
+  - first:
+      213: 324816694821356969
+    second: npc sprite sheet_26
+  - first:
+      213: -7006100105173733814
+    second: npc sprite sheet_27
+  - first:
+      213: -2215734065967502285
+    second: npc sprite sheet_28
+  - first:
+      213: 2596131943798735359
+    second: npc sprite sheet_29
+  - first:
+      213: -8002326882903815653
+    second: npc sprite sheet_30
+  - first:
+      213: 538952962635601744
+    second: npc sprite sheet_31
+  - first:
+      213: -4364270201816332416
+    second: npc sprite sheet_32
+  - first:
+      213: 6115128346603836589
+    second: npc sprite sheet_33
+  - first:
+      213: 8046452309897154270
+    second: npc sprite sheet_34
+  - first:
+      213: 4953611798364364667
+    second: npc sprite sheet_35
+  - first:
+      213: 1836537174676355985
+    second: npc sprite sheet_36
+  - first:
+      213: 153186565911622317
+    second: npc sprite sheet_37
+  - first:
+      213: 6076527880749537956
+    second: npc sprite sheet_38
+  - first:
+      213: 5297802421700029450
+    second: npc sprite sheet_39
+  - first:
+      213: 5380311515896162988
+    second: npc sprite sheet_40
+  - first:
+      213: -7193127819471370156
+    second: npc sprite sheet_41
+  - first:
+      213: 2054022567627639302
+    second: npc sprite sheet_42
+  - first:
+      213: 3891083803613153927
+    second: npc sprite sheet_43
+  - first:
+      213: 4260229105823971403
+    second: npc sprite sheet_44
+  - first:
+      213: -5255141991052379444
+    second: npc sprite sheet_45
+  - first:
+      213: -1583992466845165821
+    second: npc sprite sheet_46
+  - first:
+      213: 7804111856396518789
+    second: npc sprite sheet_47
+  - first:
+      213: 295030432667742032
+    second: npc sprite sheet_48
+  - first:
+      213: 5200984659615022388
+    second: npc sprite sheet_49
+  - first:
+      213: 3147212475025884593
+    second: npc sprite sheet_50
+  - first:
+      213: 8625031395288406537
+    second: npc sprite sheet_51
+  - first:
+      213: -5268828057940551778
+    second: npc sprite sheet_52
+  - first:
+      213: 3030298830825102089
+    second: npc sprite sheet_53
+  - first:
+      213: -4456977270513936298
+    second: npc sprite sheet_54
+  - first:
+      213: 5483552046485783228
+    second: npc sprite sheet_55
+  - first:
+      213: -508482903407491461
+    second: npc sprite sheet_56
+  - first:
+      213: 503628253656868602
+    second: npc sprite sheet_57
+  - first:
+      213: -4794371252527564919
+    second: npc sprite sheet_58
+  - first:
+      213: -153985990598827335
+    second: npc sprite sheet_59
+  - first:
+      213: -7021047931332535761
+    second: npc sprite sheet_60
+  - first:
+      213: -4115414788954767557
+    second: npc sprite sheet_61
+  - first:
+      213: -7418886576858475735
+    second: npc sprite sheet_62
+  - first:
+      213: -9072154100001081918
+    second: npc sprite sheet_63
+  - first:
+      213: 6717376849575584416
+    second: npc sprite sheet_64
+  - first:
+      213: 2790029909894110215
+    second: npc sprite sheet_65
+  - first:
+      213: -8759533913871696248
+    second: npc sprite sheet_66
+  - first:
+      213: -260250315284938849
+    second: npc sprite sheet_67
+  - first:
+      213: 9182174672459477412
+    second: npc sprite sheet_68
+  - first:
+      213: -6780345995031258096
+    second: npc sprite sheet_69
+  - first:
+      213: -1390040041112257865
+    second: npc sprite sheet_70
+  - first:
+      213: 8793772296619039647
+    second: npc sprite sheet_71
+  - first:
+      213: 5110028174573613684
+    second: npc sprite sheet_72
+  - first:
+      213: 2416391329186841806
+    second: npc sprite sheet_73
+  - first:
+      213: -4102818651878608170
+    second: npc sprite sheet_74
+  - first:
+      213: -6302892203607611736
+    second: npc sprite sheet_75
+  - first:
+      213: -3331162168435241863
+    second: npc sprite sheet_76
+  - first:
+      213: -6526668212583989437
+    second: npc sprite sheet_77
+  - first:
+      213: 6018512538523995438
+    second: npc sprite sheet_78
+  - first:
+      213: -5443766397981199130
+    second: npc sprite sheet_79
+  - first:
+      213: 8814204192013566341
+    second: npc sprite sheet_80
+  - first:
+      213: 8198161691231409153
+    second: npc sprite sheet_81
+  - first:
+      213: 3322097285277293162
+    second: npc sprite sheet_82
+  - first:
+      213: -5985023728442122956
+    second: npc sprite sheet_83
+  - first:
+      213: -8489862570939584502
+    second: npc sprite sheet_84
+  - first:
+      213: 7984406247465532653
+    second: npc sprite sheet_85
+  - first:
+      213: -7873505815879431584
+    second: npc sprite sheet_86
+  - first:
+      213: 4311870581197264407
+    second: npc sprite sheet_87
+  - first:
+      213: 751497683037257301
+    second: npc sprite sheet_88
+  - first:
+      213: -3942718823826350454
+    second: npc sprite sheet_89
+  - first:
+      213: 3563620328548323232
+    second: npc sprite sheet_90
+  - first:
+      213: -2917063930012885428
+    second: npc sprite sheet_91
+  - first:
+      213: -5385818518848197578
+    second: npc sprite sheet_92
+  - first:
+      213: -7703835624407249721
+    second: npc sprite sheet_93
+  - first:
+      213: 3012050489453166059
+    second: npc sprite sheet_94
+  - first:
+      213: 2417511564440773309
+    second: npc sprite sheet_95
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: npc sprite sheet_0
+      rect:
+        serializedVersion: 2
+        x: 1109
+        y: 2745
+        width: 1803
+        height: 1629
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7684cd1304184e8e0800000000000000
+      internalID: -1665063849505830809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc sprite sheet_2
+      rect:
+        serializedVersion: 2
+        x: 4619
+        y: 2745
+        width: 1803
+        height: 1629
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37bcf7b73937c6160800000000000000
+      internalID: 7020112996433120115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc sprite sheet_4
+      rect:
+        serializedVersion: 2
+        x: 8129
+        y: 2745
+        width: 1803
+        height: 1629
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90a5993dae4619720800000000000000
+      internalID: 2851170998837402121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc sprite sheet_5
+      rect:
+        serializedVersion: 2
+        x: 11639
+        y: 2745
+        width: 1803
+        height: 1629
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89f0788bccf690be0800000000000000
+      internalID: -1510553274946220136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc sprite sheet_48
+      rect:
+        serializedVersion: 2
+        x: 1109
+        y: 263
+        width: 1803
+        height: 1629
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05f27198d98281400800000000000000
+      internalID: 295030432667742032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc sprite sheet_49
+      rect:
+        serializedVersion: 2
+        x: 4619
+        y: 263
+        width: 1803
+        height: 1629
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43dfb9eedfb9d2840800000000000000
+      internalID: 5200984659615022388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc sprite sheet_51
+      rect:
+        serializedVersion: 2
+        x: 8129
+        y: 263
+        width: 1803
+        height: 1629
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90ad1cc4b5442b770800000000000000
+      internalID: 8625031395288406537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc sprite sheet_53
+      rect:
+        serializedVersion: 2
+        x: 11639
+        y: 263
+        width: 1803
+        height: 1629
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90b9c9e3bb8cd0a20800000000000000
+      internalID: 3030298830825102089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: dcb09c260b4ec494d9a2a83070b5ad32
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      npc sprite sheet_1: 1172669622
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
