@@ -1,6 +1,6 @@
 using UnityEditor.Experimental.GraphView;
 using UnityEngine;
-using UnityEngine.SceneManagement;
+using UnityEngine.SceneManagement; //allows scene to be switched 
 public class GameManager : MonoBehaviour
 {
     public GameObject gameOverUI;
@@ -15,16 +15,16 @@ public class GameManager : MonoBehaviour
 
     public void gameOver()
     {
-        gameOverUI.SetActive(true);
+        gameOverUI.SetActive(true); //makes the panel visible
     }
 
     public void restart()
     {
-        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
+        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex); //if restart button is pressed, the scene will reload
     }
 
     public void quit()
     {
-        Application.Quit();
+        Application.Quit(); //if quit button is pressed then the game stops 
     }
 }

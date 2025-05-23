@@ -8,7 +8,7 @@ public class NPC : MonoBehaviour, IInteractable
     public NPCDialogue dialogueData;
     public GameObject dialoguePanel;
     public TMP_Text dialogueText, nameText;
-    public Image portraitImage;
+    public Image portraitImage; //everything needed for the npc dialogue panel
 
     private int dialogueIndex;
     private bool isTyping, isDialogueActive;
@@ -20,9 +20,9 @@ public class NPC : MonoBehaviour, IInteractable
 
     public void Interact()
     {
-        if (dialogueData == null)
+        if (dialogueData == null) //ends dialogue
             return;
-        if (isDialogueActive)
+        if (isDialogueActive) //allows dialohue to continue until it's over
         {
             NextLine();
         }
@@ -32,7 +32,7 @@ public class NPC : MonoBehaviour, IInteractable
         }
     }
 
-    void StartDialogue()
+    void StartDialogue() //shows the dialogue panel with everything in it and starts the dialogue
     {
         isDialogueActive = true;
         dialogueIndex = 0;
@@ -42,7 +42,7 @@ public class NPC : MonoBehaviour, IInteractable
 
         dialoguePanel.SetActive(true);
 
-        StartCoroutine(TypeLine());
+        StartCoroutine(TypeLine()); 
     }
 
     void NextLine()
@@ -72,7 +72,7 @@ public class NPC : MonoBehaviour, IInteractable
         foreach(char letter in dialogueData.dialogueLines[dialogueIndex])
         {
             dialogueText.text += letter;
-            yield return new WaitForSeconds(dialogueData.typingSpeed);
+            yield return new WaitForSeconds(dialogueData.typingSpeed); //allows time between dialogue sentences
         }
 
         isTyping = false;
@@ -83,7 +83,7 @@ public class NPC : MonoBehaviour, IInteractable
         }
     }
 
-    public void EndDialogue()
+    public void EndDialogue() //ends the dialogue and hides the panel
     {
         StopAllCoroutines();
         isDialogueActive= false;

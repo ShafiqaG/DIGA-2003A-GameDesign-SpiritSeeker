@@ -3,7 +3,7 @@ using System.Runtime.CompilerServices;
 using System.Threading;
 using NUnit.Framework.Constraints;
 using UnityEngine;
-using UnityEngine.InputSystem;
+using UnityEngine.InputSystem;//calss/references unity's input system
 
 public class Lurakamovement : MonoBehaviour
 
@@ -12,7 +12,7 @@ public class Lurakamovement : MonoBehaviour
     private float moveSpeed = 5f;
     private Rigidbody2D rb;
     private Vector2 moveInput;
-    private Animator animator;
+    private Animator animator; //references the animator for the character's animation
 
     private void Awake()
     {
@@ -28,10 +28,10 @@ public class Lurakamovement : MonoBehaviour
 
     void Update()
     {
-        rb.linearVelocity = moveInput * moveSpeed;
+        rb.linearVelocity = moveInput * moveSpeed; //we initially used "rb.velocity" but unity suggested we change it to "rb.linearVelocity" because "rb.velocity was obsolete
     }
 
-    public void Move(InputAction.CallbackContext context)
+    public void Move(InputAction.CallbackContext context) //movement references unity's input system which automatically reads "WASD" and arrow movement
     {
       animator.SetBool("isWalking", true);
 
@@ -47,14 +47,14 @@ public class Lurakamovement : MonoBehaviour
       animator.SetFloat("InputY", moveInput.y);
     }
 
-    public IEnumerator Knockback(float knockbackDuration, float knockbackPower, Transform obj)
+    public IEnumerator Knockback(float knockbackDuration, float knockbackPower, Transform obj) //creates a coroutine used to push the player away for a set amount of time
     {
-        float timer = 0;
-        while (knockbackDuration > timer)
+        float timer = 0; //starts a timer
+        while (knockbackDuration > timer) //applies a force as long as the duration isn't over
         {
             timer += Time.deltaTime;
             Vector2 direction = (obj.transform.position - this.transform.position).normalized;
-            rb.AddForce(-direction * knockbackPower);
+            rb.AddForce(-direction * knockbackPower); //moves the player in direction with force
         }
 
         yield return 0;

@@ -19,13 +19,13 @@ public class Damage : MonoBehaviour
 
     private void Awake()
     {
-        audioManager = GameObject.FindGameObjectWithTag("Audio").GetComponent<AudioManager>();
+        audioManager = GameObject.FindGameObjectWithTag("Audio").GetComponent<AudioManager>(); //plays a sound when the player obtains damage
     }
-    private void OnCollisionEnter2D(Collision2D other)
+    private void OnCollisionEnter2D(Collision2D other) //when player collides with damageable object
     {
         if (other.gameObject.CompareTag("Player"))
         {
-            pHealth.health -= damage;
+            pHealth.health -= damage; //deals damage
             audioManager.PlaySFX(audioManager.losinghealth);
         }
     }

@@ -7,15 +7,17 @@ public class PickUp : MonoBehaviour
     public GameObject PickedItem;
 
     AudioManager audioManager;
+
+
        void Start()
     {
-        Inventory = GameObject.FindGameObjectWithTag("Inventory").GetComponent<Inventorycontrol>();
+        Inventory = GameObject.FindGameObjectWithTag("Inventory").GetComponent<Inventorycontrol>(); //collects the items
         Debug.Log(Inventory.Slots.Length);
     }
 
     private void Awake()
     {
-        audioManager = GameObject.FindGameObjectWithTag("Audio").GetComponent<AudioManager>();
+        audioManager = GameObject.FindGameObjectWithTag("Audio").GetComponent<AudioManager>(); //plays a sound whenever the item is collected
     }
 
     void Update()
@@ -25,25 +27,27 @@ public class PickUp : MonoBehaviour
 
     private void OnTriggerEnter2D(Collider2D collision)
     {
-        if (collision.CompareTag("Player"))
+        if (collision.CompareTag("Player")) 
         {
             for (int i = 0; i < Inventory.Slots.Length; i++)
             {
-                if (Inventory.Taken[i] == true)
+                if (Inventory.Taken[i]==true)
                 {
-
+                    
                 }
 
                 else if (Inventory.Taken[i] == false)
                 {
-                    Instantiate(PickedItem, Inventory.Slots[i].transform, false);
-                    audioManager.PlaySFX(audioManager.collectingwater);
-                    Destroy(gameObject);
+                    Instantiate(PickedItem, Inventory.Slots[i].transform, false); //adds it to the inventory
+                    audioManager.PlaySFX(audioManager.collectingwater); //plays the sound
+                    Destroy(gameObject); //destroys the cacti on the scene
                     Inventory.Taken[i] = true;
 
-                    return; //makes sure that all slots are filled instead of one
+                    return; //makes sure that all slots get filled instead of just one
                 }
+                
             }
+           
         }
     }
 }

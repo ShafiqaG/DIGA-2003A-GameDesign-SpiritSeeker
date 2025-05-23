@@ -1,14 +1,14 @@
 using UnityEngine;
-using UnityEngine.SceneManagement;
+using UnityEngine.SceneManagement;//switches between scenes
 
 public class MainMenu : MonoBehaviour
 {
     public void PlayGame()
     {
-        SceneManager.LoadSceneAsync("Intro Scene");
+        SceneManager.LoadSceneAsync("Intro Scene"); //start = play the intro scene
     }
 
-    public void QuitGame()
+    public void QuitGame() //quit = leave the game
     { 
         Application.Quit();
     }

@@ -7,7 +7,7 @@ public class Inventorycontrol : MonoBehaviour
 
     public bool[] Taken;
 
-    public void OpenInventory()
+    public void OpenInventory() //shows the inventory
     {
         Inventory.SetActive(!Inventory.activeSelf);
     }
