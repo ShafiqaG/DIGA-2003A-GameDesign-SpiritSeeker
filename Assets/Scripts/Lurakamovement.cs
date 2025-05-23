@@ -40,9 +40,22 @@ public class Lurakamovement : MonoBehaviour
           animator.SetBool("isWalking", false);
           animator.SetFloat("LastInputX", moveInput.x);
           animator.SetFloat("LastInputY", moveInput.y);
-      }
 
-      moveInput = context.ReadValue<Vector2>();
+            //Title:Player Movement with Unity Input System -Top Down Unity 2D #1
+            //Author: YouTube- Game Code Library
+            //Date: 16 May 2025
+            //Code Version: 6000.0.49f1 (LTS)
+            //Availibility: https://www.youtube.com/watch?v=DQY62meLVCk
+
+
+            //Title: Week 9 - Lists _ Dictionaries _ Animations.pdf
+            //Author: Andrea Hayes
+            //Date: 22 May 2025
+            //Code Version: n/a
+            //Availibility: https://ulwazi.wits.ac.za/courses/81381/files/8743053?module_item_id=917473
+        }
+
+        moveInput = context.ReadValue<Vector2>();
       animator.SetFloat("InputX", moveInput.x);
       animator.SetFloat("InputY", moveInput.y);
     }
@@ -55,6 +68,13 @@ public class Lurakamovement : MonoBehaviour
             timer += Time.deltaTime;
             Vector2 direction = (obj.transform.position - this.transform.position).normalized;
             rb.AddForce(-direction * knockbackPower); //moves the player in direction with force
+
+            //Title: Knockback TopDown -Unity 2D Tutorial
+            //Author: YouTube- PekkeDev
+            //Date: 04 May 2025
+            //Code Version: 6000.0.49f1 (LTS)
+            //Availibility: https://www.youtube.com/watch?v=ahadN8aGvXg
+
         }
 
         yield return 0;

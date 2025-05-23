@@ -1,3 +1,4 @@
+using Unity.VisualScripting;
 using UnityEngine;
 
 public class Damage : MonoBehaviour
@@ -27,6 +28,13 @@ public class Damage : MonoBehaviour
         {
             pHealth.health -= damage; //deals damage
             audioManager.PlaySFX(audioManager.losinghealth);
+
+
+            //Title: Apply Damage and Knockback to Enemies or Players in Unity 2022 2D Action RPG Tutorial
+            //Author: YouTube-Chris' Tutorials
+            //Date: 16 May 2025
+            //Code Version: 6000.0.49f1 (LTS)
+            //Availibility: https://www.youtube.com/watch?v=bRcMVkJS3XQ
         }
     }
 }

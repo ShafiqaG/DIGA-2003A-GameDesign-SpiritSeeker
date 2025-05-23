@@ -36,6 +36,12 @@ public class PlayerHealth : MonoBehaviour
             gameManager.gameOver(); //screen should pop up 
             audioManager.PlaySFX(audioManager.gameover);
             Debug.Log("Dead");
+
+            //Title: Unity Player Health and Health Bar Tutorial
+            //Author: YouTube- MoreBBlakeyyy
+            //Date: 16 May 2025
+            //Code Version: 6000.0.49f1 (LTS)
+            //Availibility: https://www.youtube.com/watch?v=bRcMVkJS3XQ
         }
     }
 }

@@ -44,8 +44,14 @@ public class PickUp : MonoBehaviour
                     Inventory.Taken[i] = true;
 
                     return; //makes sure that all slots get filled instead of just one
+
+                    //Title: How To Make An Inventory In Unity P1/2 - Unity Tutorial
+                    //Author: YouTube- The Game Smith
+                    //Date: 16 May 2025
+                    //Code Version: 6000.0.49f1 (LTS)
+                    //Availibility: https://www.youtube.com/watch?v=XzeEqEb-0Ec
                 }
-                
+
             }
            
         }

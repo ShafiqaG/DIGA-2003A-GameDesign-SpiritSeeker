@@ -1,3 +1,4 @@
+using Unity.VisualScripting;
 using UnityEngine;
 using UnityEngine.InputSystem;
 
@@ -16,6 +17,14 @@ public class InteractionDetector : MonoBehaviour
         if (context.performed)
         {
             interactableInRange?.Interact(); //detects an interaction within interactable range
+
+            //Title: Add an Interaction System to your Game - Top Down Unity 2D #16
+            //Author: YouTube- Game Code Library
+            //Date: 03 May 2025
+            //Code Version: 6000.0.49f1 (LTS)
+            //Availibility: https://www.youtube.com/watch?v=eSH9mzcMRqw
+
+
         }
     }
 

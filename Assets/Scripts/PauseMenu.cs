@@ -20,5 +20,10 @@ public class PauseMenu : MonoBehaviour
     {
         Application.Quit();
     }
-   
+
+    //Title: Make Your MAIN MENU Quickly! | Unity UI Tutorial For Beginners
+    //Author: YouTube- Rehope Games
+    //Date: 04 May 2025
+    //Code Version: 6000.0.49f1 (LTS)
+    //Availibility: https://www.youtube.com/watch?v=DX7HyN7oJjE
 }
