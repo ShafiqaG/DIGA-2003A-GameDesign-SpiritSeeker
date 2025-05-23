@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: b3133842e0e0f9443860de19bbb6beee
+guid: 38f2a35935d154b4984484c0a79f0dd8
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 2343911552067888223
-    second: inventory notification_0
+      213: 6552693025179852787
+    second: blackout_bg_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -37,7 +37,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -46,7 +46,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 2
+  spriteMode: 1
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -113,23 +113,23 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: inventory notification_0
+      name: blackout_bg_0
       rect:
         serializedVersion: 2
-        x: 0
+        x: 13
         y: 0
-        width: 3508
-        height: 2480
+        width: 3495
+        height: 2427
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: f54e0f5532f378020800000000000000
-      internalID: 2343911552067888223
+      spriteID: 3ff5608b697dfea50800000000000000
+      internalID: 6552693025179852787
       vertices: []
       indices: 
       edges: []
@@ -138,7 +138,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: a0656bc29a6f87643928d558ecc471bb
     internalID: 0
     vertices: []
     indices: 
@@ -148,7 +148,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      inventory notification_0: 2343911552067888223
+      blackout_bg_0: 6552693025179852787
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
