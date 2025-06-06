@@ -5,7 +5,7 @@ public class PlayerHealth : MonoBehaviour
 
 {
     public float health;
-    public float maxHealth;
+    public float maxHealth=100f;
     public Image healthBar;
 
     AudioManager audioManager;
@@ -18,6 +18,12 @@ public class PlayerHealth : MonoBehaviour
     private bool isDead;
 
     public GameManager gameManager; //when player health is at 0 the death panel pops up
+
+    public void Heal (float amount)
+    {
+        health += amount;
+        health = Mathf.Min(health, maxHealth);
+    }
     
     void Start() //player starts with full health
     {

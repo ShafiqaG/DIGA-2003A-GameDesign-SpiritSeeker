@@ -1,4 +1,3 @@
-using UnityEditor.Experimental.GraphView;
 using UnityEngine;
 using UnityEngine.SceneManagement; //allows scene to be switched 
 public class GameManager : MonoBehaviour
