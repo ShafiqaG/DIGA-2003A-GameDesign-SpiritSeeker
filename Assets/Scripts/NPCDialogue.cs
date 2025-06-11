@@ -8,11 +8,23 @@ public class NPCDialogue : ScriptableObject
     public Sprite npcPortrait;
     public string[] dialogueLines;
     public bool[] autoProgressLine;
+    public bool[] endDialogueLines;
     public float autoProgressDelay = 1.5f;
     public float typingSpeed = 0.05f;
     internal object autoProgressLines;
+
+    public DialogueChoice[] choices;
 }
 //all the elements needed for the NPC dialogue
+
+[System.Serializable]
+
+public class DialogueChoice
+{
+    public int dialogueIndex; //shows the dialogue choices 
+    public string[] choices; //response options
+    public int[] nextDialogueIndexes; //the choice branch and outcome
+}
 
 //Title: Add NPC and Dialogue System to your Game - Top Down Unity 2D #19
 //Author: YouTube- Game Code Library

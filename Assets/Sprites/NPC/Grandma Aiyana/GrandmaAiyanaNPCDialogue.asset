@@ -18,8 +18,15 @@ MonoBehaviour:
   - Oh hello dear child! Today marks the the beginning of your special journey across
     the lands
   - Before I give you the artifact, the Idara Amulet, I have a small favour to ask
-    of you
   - Please fetch 6 CACTUS WATER for me
+  - 'Oh..see you later dear child '
   autoProgressLine: 010100
+  endDialogueLines: 00000101
   autoProgressDelay: 1.5
   typingSpeed: 0.05
+  choices:
+  - dialogueIndex: 1
+    choices:
+    - Of Course, how can I help?
+    - Maybe later
+    nextDialogueIndexes: 0200000003000000
