@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 51d48a8501c64fd4794db94d26b29b84, type: 3}
+  m_Name: GrandmaAiyanaNPCDialogue
+  m_EditorClassIdentifier: 
+  npcName: Grandma Aiyana
+  npcPortrait: {fileID: -5114743758707838332, guid: b87abe09cf08d394bac461893c0248ae, type: 3}
+  dialogueLines:
+  - Oh hello dear child! Today marks the the beginning of your special journey across
+    the lands
+  - Before I give you the artifact, the Idara Amulet, I have a small favour to ask
+    of you
+  - Please fetch 6 CACTUS WATER for me
+  autoProgressLine: 010100
+  autoProgressDelay: 1.5
+  typingSpeed: 0.05

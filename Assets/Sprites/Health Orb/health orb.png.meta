@@ -1,0 +1,4930 @@
+fileFormatVersion: 2
+guid: ead8ffbc1c073ea498e4030c28ccb42e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8307602312631718364
+    second: health orb_0
+  - first:
+      213: 1020580294692086684
+    second: health orb_1
+  - first:
+      213: -7851701197791754271
+    second: health orb_2
+  - first:
+      213: -5351155645516212568
+    second: health orb_3
+  - first:
+      213: -8316381897318368859
+    second: health orb_4
+  - first:
+      213: 4525420068524630173
+    second: health orb_5
+  - first:
+      213: 9194656065470732633
+    second: health orb_6
+  - first:
+      213: 2158960416461557941
+    second: health orb_7
+  - first:
+      213: 5623632514998362746
+    second: health orb_8
+  - first:
+      213: -2697466649245534583
+    second: health orb_9
+  - first:
+      213: 8948950827195643525
+    second: health orb_10
+  - first:
+      213: -6061201113682666106
+    second: health orb_11
+  - first:
+      213: -8215242479400639039
+    second: health orb_12
+  - first:
+      213: 2926129980218129
+    second: health orb_13
+  - first:
+      213: -4750800642359320244
+    second: health orb_14
+  - first:
+      213: -9061952873436349226
+    second: health orb_15
+  - first:
+      213: 5168876457218784712
+    second: health orb_16
+  - first:
+      213: 6865851909088850852
+    second: health orb_17
+  - first:
+      213: -1366167683164992021
+    second: health orb_18
+  - first:
+      213: -5395455825791185969
+    second: health orb_19
+  - first:
+      213: -269191200714768749
+    second: health orb_20
+  - first:
+      213: -780169509984693696
+    second: health orb_21
+  - first:
+      213: 1057145511598753587
+    second: health orb_22
+  - first:
+      213: -576141929667201631
+    second: health orb_23
+  - first:
+      213: -2642104666213822302
+    second: health orb_24
+  - first:
+      213: -4230382612335857283
+    second: health orb_25
+  - first:
+      213: 6779081861462827189
+    second: health orb_26
+  - first:
+      213: 487497640857975781
+    second: health orb_27
+  - first:
+      213: 5033259259901848045
+    second: health orb_28
+  - first:
+      213: 6024245839554928120
+    second: health orb_29
+  - first:
+      213: -5341119775013729536
+    second: health orb_30
+  - first:
+      213: -8529849652091987424
+    second: health orb_31
+  - first:
+      213: -7742176356146167484
+    second: health orb_32
+  - first:
+      213: 2343199190105062036
+    second: health orb_33
+  - first:
+      213: 5703202473695434071
+    second: health orb_34
+  - first:
+      213: 1966022501988850853
+    second: health orb_35
+  - first:
+      213: -1501485475523924913
+    second: health orb_36
+  - first:
+      213: 9155174232986481695
+    second: health orb_37
+  - first:
+      213: 1362569165500090867
+    second: health orb_38
+  - first:
+      213: 4531143890326603152
+    second: health orb_39
+  - first:
+      213: -8350685501306552077
+    second: health orb_40
+  - first:
+      213: 1578221008597594745
+    second: health orb_41
+  - first:
+      213: -7763060781356871082
+    second: health orb_42
+  - first:
+      213: -2361784988227030239
+    second: health orb_43
+  - first:
+      213: -5080751300262249851
+    second: health orb_44
+  - first:
+      213: 867979528112646957
+    second: health orb_45
+  - first:
+      213: 1728587586637765271
+    second: health orb_46
+  - first:
+      213: 5729127751939395201
+    second: health orb_47
+  - first:
+      213: -5486143310967400859
+    second: health orb_48
+  - first:
+      213: -631306739397545727
+    second: health orb_49
+  - first:
+      213: 6208801518919509188
+    second: health orb_50
+  - first:
+      213: -3989819501092646489
+    second: health orb_51
+  - first:
+      213: 1269130717516376219
+    second: health orb_52
+  - first:
+      213: 232921686026465269
+    second: health orb_53
+  - first:
+      213: -1116059133325388388
+    second: health orb_54
+  - first:
+      213: 7115565296211975583
+    second: health orb_55
+  - first:
+      213: -5566036226104338380
+    second: health orb_56
+  - first:
+      213: 7490060987840805173
+    second: health orb_57
+  - first:
+      213: 4398138204001196556
+    second: health orb_58
+  - first:
+      213: -8875390716213514005
+    second: health orb_59
+  - first:
+      213: 1796422204441032937
+    second: health orb_60
+  - first:
+      213: 9060250213929207668
+    second: health orb_61
+  - first:
+      213: 7875299235080731294
+    second: health orb_62
+  - first:
+      213: 13440373163880235
+    second: health orb_63
+  - first:
+      213: 4561229170284620288
+    second: health orb_64
+  - first:
+      213: -2509558599518158010
+    second: health orb_65
+  - first:
+      213: -4313215418577639948
+    second: health orb_66
+  - first:
+      213: 3292739104929139964
+    second: health orb_67
+  - first:
+      213: -4127966637895551613
+    second: health orb_68
+  - first:
+      213: -7270558214513967232
+    second: health orb_69
+  - first:
+      213: -6152120744222565215
+    second: health orb_70
+  - first:
+      213: -2809823267139509434
+    second: health orb_71
+  - first:
+      213: -5685806833342777148
+    second: health orb_72
+  - first:
+      213: -5039569212427198210
+    second: health orb_73
+  - first:
+      213: -4797280447755617252
+    second: health orb_74
+  - first:
+      213: -8524567255354347591
+    second: health orb_75
+  - first:
+      213: -4462492542239031797
+    second: health orb_76
+  - first:
+      213: -405942334515782820
+    second: health orb_77
+  - first:
+      213: -2984148493843847896
+    second: health orb_78
+  - first:
+      213: 8981365546013554220
+    second: health orb_79
+  - first:
+      213: 3175718363164155108
+    second: health orb_80
+  - first:
+      213: 2678555554818535600
+    second: health orb_81
+  - first:
+      213: 4238921182239769875
+    second: health orb_82
+  - first:
+      213: 4939291996253285350
+    second: health orb_83
+  - first:
+      213: 9194176887758218121
+    second: health orb_84
+  - first:
+      213: 7869673299582866668
+    second: health orb_85
+  - first:
+      213: 341967976864833464
+    second: health orb_86
+  - first:
+      213: 5169900860465267987
+    second: health orb_87
+  - first:
+      213: -6304738720583425220
+    second: health orb_88
+  - first:
+      213: -4237025134689919317
+    second: health orb_89
+  - first:
+      213: 87779676402510360
+    second: health orb_90
+  - first:
+      213: -2028466365144842417
+    second: health orb_91
+  - first:
+      213: 5392745273379253111
+    second: health orb_92
+  - first:
+      213: -1021999340671741809
+    second: health orb_93
+  - first:
+      213: -5619195433139998775
+    second: health orb_94
+  - first:
+      213: -5819804557242645718
+    second: health orb_95
+  - first:
+      213: 1733865221444617042
+    second: health orb_96
+  - first:
+      213: -2218864918698159515
+    second: health orb_97
+  - first:
+      213: -5721865571223114579
+    second: health orb_98
+  - first:
+      213: -2579991402263976806
+    second: health orb_99
+  - first:
+      213: -8283517188287430269
+    second: health orb_100
+  - first:
+      213: -5378282619111979130
+    second: health orb_101
+  - first:
+      213: 5027868581912829654
+    second: health orb_102
+  - first:
+      213: -3842758622846333843
+    second: health orb_103
+  - first:
+      213: -2363991610951855064
+    second: health orb_104
+  - first:
+      213: -7670385266199216358
+    second: health orb_105
+  - first:
+      213: 4456368515774197403
+    second: health orb_106
+  - first:
+      213: 3573424916910973525
+    second: health orb_107
+  - first:
+      213: 5782396557634640100
+    second: health orb_108
+  - first:
+      213: -4622401582411204711
+    second: health orb_109
+  - first:
+      213: -953212298151977149
+    second: health orb_110
+  - first:
+      213: -3996321045600897371
+    second: health orb_111
+  - first:
+      213: -8029823704202033579
+    second: health orb_112
+  - first:
+      213: 6700270187500292072
+    second: health orb_113
+  - first:
+      213: -1526077043340786895
+    second: health orb_114
+  - first:
+      213: 4221455472577624961
+    second: health orb_115
+  - first:
+      213: -2918478790975818983
+    second: health orb_116
+  - first:
+      213: 3589538555504132221
+    second: health orb_117
+  - first:
+      213: 4437131625217244796
+    second: health orb_118
+  - first:
+      213: -2521931753323811610
+    second: health orb_119
+  - first:
+      213: 8441921343535951062
+    second: health orb_120
+  - first:
+      213: -4479404872746987891
+    second: health orb_121
+  - first:
+      213: -3311776676587914113
+    second: health orb_122
+  - first:
+      213: -5541466252795464999
+    second: health orb_123
+  - first:
+      213: 6637304079860588538
+    second: health orb_124
+  - first:
+      213: 7107154114436063600
+    second: health orb_125
+  - first:
+      213: 5220030937674679085
+    second: health orb_126
+  - first:
+      213: -6452807872393277260
+    second: health orb_127
+  - first:
+      213: -8245781635245996321
+    second: health orb_128
+  - first:
+      213: -2897313519028347400
+    second: health orb_129
+  - first:
+      213: -4294564631327692454
+    second: health orb_130
+  - first:
+      213: 2567390498332147618
+    second: health orb_131
+  - first:
+      213: -5448704421296727751
+    second: health orb_132
+  - first:
+      213: -6524652184344814961
+    second: health orb_133
+  - first:
+      213: -2021136165144709421
+    second: health orb_134
+  - first:
+      213: -6390413792649847664
+    second: health orb_135
+  - first:
+      213: -5396930274657981809
+    second: health orb_136
+  - first:
+      213: -1843062558400695810
+    second: health orb_137
+  - first:
+      213: 4759512762608043512
+    second: health orb_138
+  - first:
+      213: 506223433649887502
+    second: health orb_139
+  - first:
+      213: 3423091164851103308
+    second: health orb_140
+  - first:
+      213: 4464221810934447416
+    second: health orb_141
+  - first:
+      213: 3021282339007181857
+    second: health orb_142
+  - first:
+      213: -3335743042548515950
+    second: health orb_143
+  - first:
+      213: 1944095568366453982
+    second: health orb_144
+  - first:
+      213: -232616326825811105
+    second: health orb_145
+  - first:
+      213: 1066450251425335885
+    second: health orb_146
+  - first:
+      213: -1939742599714986167
+    second: health orb_147
+  - first:
+      213: -6977857062583732451
+    second: health orb_148
+  - first:
+      213: -841030904491167910
+    second: health orb_149
+  - first:
+      213: 4254103133530694513
+    second: health orb_150
+  - first:
+      213: -4888552296219833104
+    second: health orb_151
+  - first:
+      213: -7961636742277729539
+    second: health orb_152
+  - first:
+      213: -2648940180085571227
+    second: health orb_153
+  - first:
+      213: 2220739112227164559
+    second: health orb_154
+  - first:
+      213: 2813694049430212908
+    second: health orb_155
+  - first:
+      213: -6420978273306188512
+    second: health orb_156
+  - first:
+      213: 3807289197017814067
+    second: health orb_157
+  - first:
+      213: -5084602513108283806
+    second: health orb_158
+  - first:
+      213: 5500389810673376053
+    second: health orb_159
+  - first:
+      213: 8725542252564211453
+    second: health orb_160
+  - first:
+      213: 6899156008719349680
+    second: health orb_161
+  - first:
+      213: 5799109469372495902
+    second: health orb_162
+  - first:
+      213: -684489847907673242
+    second: health orb_163
+  - first:
+      213: -2886672522180943848
+    second: health orb_164
+  - first:
+      213: 1654301396792082962
+    second: health orb_165
+  - first:
+      213: 7954929877160478754
+    second: health orb_166
+  - first:
+      213: -7412169253039950931
+    second: health orb_167
+  - first:
+      213: 2880555726007260556
+    second: health orb_168
+  - first:
+      213: 7078893844091151639
+    second: health orb_169
+  - first:
+      213: 3284222666697451175
+    second: health orb_170
+  - first:
+      213: 1252970460822101047
+    second: health orb_171
+  - first:
+      213: 2682223300475763835
+    second: health orb_172
+  - first:
+      213: -2609234049849323588
+    second: health orb_173
+  - first:
+      213: -6630101529067486452
+    second: health orb_174
+  - first:
+      213: 6132345977062571280
+    second: health orb_175
+  - first:
+      213: 125921902439776822
+    second: health orb_176
+  - first:
+      213: 7313404049791006697
+    second: health orb_177
+  - first:
+      213: -8741704671082141060
+    second: health orb_178
+  - first:
+      213: -6214744815313204642
+    second: health orb_179
+  - first:
+      213: 7694427439945243401
+    second: health orb_180
+  - first:
+      213: 9193951789701956706
+    second: health orb_181
+  - first:
+      213: 4638108867612528548
+    second: health orb_182
+  - first:
+      213: 6057703910771253847
+    second: health orb_183
+  - first:
+      213: -7389447274959316692
+    second: health orb_184
+  - first:
+      213: 1178505039578775597
+    second: health orb_185
+  - first:
+      213: 6878076329468034441
+    second: health orb_186
+  - first:
+      213: -7789697328685659277
+    second: health orb_187
+  - first:
+      213: 1788087493564673258
+    second: health orb_188
+  - first:
+      213: -1400745960899161707
+    second: health orb_189
+  - first:
+      213: -269799239510462096
+    second: health orb_190
+  - first:
+      213: 5973444972551168676
+    second: health orb_191
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: health orb_0
+      rect:
+        serializedVersion: 2
+        x: 1257
+        y: 1764
+        width: 106
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd190aba9488a4370800000000000000
+      internalID: 8307602312631718364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: health orb_1
+      rect:
+        serializedVersion: 2
+        x: 1876
+        y: 1836
+        width: 74
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c93a2e9ee54d92e00800000000000000
+      internalID: 1020580294692086684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: health orb_2
+      rect:
+        serializedVersion: 2
+        x: 1153
+        y: 652
+        width: 1187
+        height: 1137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e70d175c57290390800000000000000
+      internalID: -7851701197791754271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: health orb_3
+      rect:
+        serializedVersion: 2
+        x: 1459
+        y: 1776
+        width: 50
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a61e23ca40ecb5b0800000000000000
+      internalID: -5351155645516212568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: health orb_4
+      rect:
+        serializedVersion: 2
+        x: 1158
+        y: 1653
+        width: 54
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a979d9f9b6469c80800000000000000
+      internalID: -8316381897318368859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: health orb_5
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 1606
+        width: 41
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d90a5db53958dce30800000000000000
+      internalID: 4525420068524630173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: health orb_6
+      rect:
+        serializedVersion: 2
+        x: 2485
+        y: 1537
+        width: 45
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9591646e9faf99f70800000000000000
+      internalID: 9194656065470732633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: health orb_7
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 1324
+        width: 51
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b012536f0b26fd10800000000000000
+      internalID: 2158960416461557941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: health orb_8
+      rect:
+        serializedVersion: 2
+        x: 2320
+        y: 1344
+        width: 55
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7260d32af72b0e40800000000000000
+      internalID: 5623632514998362746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: health orb_9
+      rect:
+        serializedVersion: 2
+        x: 2332
+        y: 1338
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 986b142df5ca09ad0800000000000000
+      internalID: -2697466649245534583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: health orb_10
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 1291
+        width: 41
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5863f6f1d5f013c70800000000000000
+      internalID: 8948950827195643525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: health orb_11
+      rect:
+        serializedVersion: 2
+        x: 2331
+        y: 1324
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68d1eb263b942eba0800000000000000
+      internalID: -6061201113682666106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: health orb_12
+      rect:
+        serializedVersion: 2
+        x: 2338
+        y: 1315
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c520afbd789dfd80800000000000000
+      internalID: -8215242479400639039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: health orb_13
+      rect:
+        serializedVersion: 2
+        x: 2355
+        y: 1327
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11b990abc456a0000800000000000000
+      internalID: 2926129980218129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: health orb_14
+      rect:
+        serializedVersion: 2
+        x: 2351
+        y: 1309
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c41a9719cf3c11eb0800000000000000
+      internalID: -4750800642359320244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: health orb_15
+      rect:
+        serializedVersion: 2
+        x: 2359
+        y: 1315
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dcfe77bfd97d3280800000000000000
+      internalID: -9061952873436349226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: health orb_16
+      rect:
+        serializedVersion: 2
+        x: 2383
+        y: 1302
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cdb76080c98bb740800000000000000
+      internalID: 5168876457218784712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: health orb_17
+      rect:
+        serializedVersion: 2
+        x: 2333
+        y: 1297
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a3bda93fe7684f50800000000000000
+      internalID: 6865851909088850852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: health orb_18
+      rect:
+        serializedVersion: 2
+        x: 2343
+        y: 1304
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bed055dfab56a0de0800000000000000
+      internalID: -1366167683164992021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: health orb_19
+      rect:
+        serializedVersion: 2
+        x: 2349
+        y: 1292
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcb8766438d7f15b0800000000000000
+      internalID: -5395455825791185969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: health orb_20
+      rect:
+        serializedVersion: 2
+        x: 2405
+        y: 1303
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39e3cb87704a34cf0800000000000000
+      internalID: -269191200714768749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: health orb_21
+      rect:
+        serializedVersion: 2
+        x: 2337
+        y: 1292
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04295c4d6f74c25f0800000000000000
+      internalID: -780169509984693696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: health orb_22
+      rect:
+        serializedVersion: 2
+        x: 2337
+        y: 1279
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3370eb6ed3cbbae00800000000000000
+      internalID: 1057145511598753587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: health orb_23
+      rect:
+        serializedVersion: 2
+        x: 2355
+        y: 1278
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a57afda7f12108f0800000000000000
+      internalID: -576141929667201631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: health orb_24
+      rect:
+        serializedVersion: 2
+        x: 2361
+        y: 1285
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a05ce6fdcb555bd0800000000000000
+      internalID: -2642104666213822302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: health orb_25
+      rect:
+        serializedVersion: 2
+        x: 2368
+        y: 1291
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d717bb77d69aa45c0800000000000000
+      internalID: -4230382612335857283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: health orb_26
+      rect:
+        serializedVersion: 2
+        x: 2373
+        y: 1284
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b029cf2903241e50800000000000000
+      internalID: 6779081861462827189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: health orb_27
+      rect:
+        serializedVersion: 2
+        x: 2346
+        y: 1259
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5eb3e208580f3c600800000000000000
+      internalID: 487497640857975781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: health orb_28
+      rect:
+        serializedVersion: 2
+        x: 2355
+        y: 1270
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de925e821aab9d540800000000000000
+      internalID: 5033259259901848045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: health orb_29
+      rect:
+        serializedVersion: 2
+        x: 2361
+        y: 1269
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fddb4a5cab6a9350800000000000000
+      internalID: 6024245839554928120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: health orb_30
+      rect:
+        serializedVersion: 2
+        x: 2369
+        y: 1262
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00b0e73fcd780e5b0800000000000000
+      internalID: -5341119775013729536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: health orb_31
+      rect:
+        serializedVersion: 2
+        x: 2381
+        y: 1260
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02a519b3fe2ef9980800000000000000
+      internalID: -8529849652091987424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: health orb_32
+      rect:
+        serializedVersion: 2
+        x: 2392
+        y: 1277
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 441ca77bf934e8490800000000000000
+      internalID: -7742176356146167484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: health orb_33
+      rect:
+        serializedVersion: 2
+        x: 2448
+        y: 1248
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49af134af37b48020800000000000000
+      internalID: 2343199190105062036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: health orb_34
+      rect:
+        serializedVersion: 2
+        x: 1153
+        y: 1241
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 755deb6de68d52f40800000000000000
+      internalID: 5703202473695434071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: health orb_35
+      rect:
+        serializedVersion: 2
+        x: 1169
+        y: 1247
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ac58739c07b84b10800000000000000
+      internalID: 1966022501988850853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: health orb_36
+      rect:
+        serializedVersion: 2
+        x: 2352
+        y: 1248
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4cecfb4ae6a92be0800000000000000
+      internalID: -1501485475523924913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: health orb_37
+      rect:
+        serializedVersion: 2
+        x: 2377
+        y: 1242
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f14f7fd6576bd0f70800000000000000
+      internalID: 9155174232986481695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: health orb_38
+      rect:
+        serializedVersion: 2
+        x: 1174
+        y: 1238
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f98883df61d8e210800000000000000
+      internalID: 1362569165500090867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: health orb_39
+      rect:
+        serializedVersion: 2
+        x: 2385
+        y: 1232
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09549197c5bd1ee30800000000000000
+      internalID: 4531143890326603152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: health orb_40
+      rect:
+        serializedVersion: 2
+        x: 2401
+        y: 1239
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f04e97c7c76c1c80800000000000000
+      internalID: -8350685501306552077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: health orb_41
+      rect:
+        serializedVersion: 2
+        x: 1143
+        y: 1217
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 972b48245a7f6e510800000000000000
+      internalID: 1578221008597594745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: health orb_42
+      rect:
+        serializedVersion: 2
+        x: 1164
+        y: 1221
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 652157d8951144490800000000000000
+      internalID: -7763060781356871082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: health orb_43
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 1212
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 123b0e40111493fd0800000000000000
+      internalID: -2361784988227030239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: health orb_44
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1206
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58ab3c38c9b8d79b0800000000000000
+      internalID: -5080751300262249851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: health orb_45
+      rect:
+        serializedVersion: 2
+        x: 1142
+        y: 1197
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2b277538ceab0c00800000000000000
+      internalID: 867979528112646957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: health orb_46
+      rect:
+        serializedVersion: 2
+        x: 1171
+        y: 1192
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79a91b8604d2df710800000000000000
+      internalID: 1728587586637765271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: health orb_47
+      rect:
+        serializedVersion: 2
+        x: 1174
+        y: 1182
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18e0e2f0653f18f40800000000000000
+      internalID: 5729127751939395201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: health orb_48
+      rect:
+        serializedVersion: 2
+        x: 2344
+        y: 1129
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56617eab9bd4dd3b0800000000000000
+      internalID: -5486143310967400859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: health orb_49
+      rect:
+        serializedVersion: 2
+        x: 2351
+        y: 1094
+        width: 69
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10136e58dd52d37f0800000000000000
+      internalID: -631306739397545727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: health orb_50
+      rect:
+        serializedVersion: 2
+        x: 2460
+        y: 1128
+        width: 39
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c46a18f5181a2650800000000000000
+      internalID: 6208801518919509188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: health orb_51
+      rect:
+        serializedVersion: 2
+        x: 2565
+        y: 1123
+        width: 45
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a1527f7d4051a8c0800000000000000
+      internalID: -3989819501092646489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: health orb_52
+      rect:
+        serializedVersion: 2
+        x: 2332
+        y: 1093
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b98a917d9abdc9110800000000000000
+      internalID: 1269130717516376219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: health orb_53
+      rect:
+        serializedVersion: 2
+        x: 2335
+        y: 1088
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ffa7141a018b3300800000000000000
+      internalID: 232921686026465269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: health orb_54
+      rect:
+        serializedVersion: 2
+        x: 2339
+        y: 1093
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c955fc1a126f280f0800000000000000
+      internalID: -1116059133325388388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: health orb_55
+      rect:
+        serializedVersion: 2
+        x: 2359
+        y: 1088
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9ddfc0efe09fb260800000000000000
+      internalID: 7115565296211975583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: health orb_56
+      rect:
+        serializedVersion: 2
+        x: 2326
+        y: 1084
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4385810ea8771c2b0800000000000000
+      internalID: -5566036226104338380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: health orb_57
+      rect:
+        serializedVersion: 2
+        x: 2340
+        y: 1078
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 539334ec8ca02f760800000000000000
+      internalID: 7490060987840805173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: health orb_58
+      rect:
+        serializedVersion: 2
+        x: 2354
+        y: 1083
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0ad09ae463590d30800000000000000
+      internalID: 4398138204001196556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: health orb_59
+      rect:
+        serializedVersion: 2
+        x: 2360
+        y: 1079
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be03b4dda2744d480800000000000000
+      internalID: -8875390716213514005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: health orb_60
+      rect:
+        serializedVersion: 2
+        x: 2380
+        y: 1059
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e8f4522a7c2ee810800000000000000
+      internalID: 1796422204441032937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: health orb_61
+      rect:
+        serializedVersion: 2
+        x: 2408
+        y: 1083
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4774869f0997cbd70800000000000000
+      internalID: 9060250213929207668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: health orb_62
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 1072
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9a74eeddeeaa4d60800000000000000
+      internalID: 7875299235080731294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: health orb_63
+      rect:
+        serializedVersion: 2
+        x: 1121
+        y: 1067
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2fe41cb2ffbf2000800000000000000
+      internalID: 13440373163880235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: health orb_64
+      rect:
+        serializedVersion: 2
+        x: 2326
+        y: 1067
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00ae6f193cdbc4f30800000000000000
+      internalID: 4561229170284620288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: health orb_65
+      rect:
+        serializedVersion: 2
+        x: 2353
+        y: 1070
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64381bcffb14c2dd0800000000000000
+      internalID: -2509558599518158010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: health orb_66
+      rect:
+        serializedVersion: 2
+        x: 2367
+        y: 1074
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f521ffdd616424c0800000000000000
+      internalID: -4313215418577639948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: health orb_67
+      rect:
+        serializedVersion: 2
+        x: 1141
+        y: 1059
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfcc65f25c822bd20800000000000000
+      internalID: 3292739104929139964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: health orb_68
+      rect:
+        serializedVersion: 2
+        x: 2365
+        y: 1047
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3857297b63486b6c0800000000000000
+      internalID: -4127966637895551613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: health orb_69
+      rect:
+        serializedVersion: 2
+        x: 2390
+        y: 1054
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08fb81133d9c91b90800000000000000
+      internalID: -7270558214513967232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: health orb_70
+      rect:
+        serializedVersion: 2
+        x: 2422
+        y: 1058
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ac5d4947c64f9aa0800000000000000
+      internalID: -6152120744222565215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: health orb_71
+      rect:
+        serializedVersion: 2
+        x: 2442
+        y: 1062
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 643a58820a08109d0800000000000000
+      internalID: -2809823267139509434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: health orb_72
+      rect:
+        serializedVersion: 2
+        x: 2399
+        y: 1049
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c87d1d4fc4f711b0800000000000000
+      internalID: -5685806833342777148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: health orb_73
+      rect:
+        serializedVersion: 2
+        x: 2408
+        y: 1051
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef02848808adf0ab0800000000000000
+      internalID: -5039569212427198210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: health orb_74
+      rect:
+        serializedVersion: 2
+        x: 2417
+        y: 1055
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1c799f89d2ac6db0800000000000000
+      internalID: -4797280447755617252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: health orb_75
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 1038
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bf6da01f37a2b980800000000000000
+      internalID: -8524567255354347591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: health orb_76
+      rect:
+        serializedVersion: 2
+        x: 1138
+        y: 1039
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0e33071daa0212c0800000000000000
+      internalID: -4462492542239031797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: health orb_77
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 1039
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5bd4e7f89dcd5af0800000000000000
+      internalID: -405942334515782820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: health orb_78
+      rect:
+        serializedVersion: 2
+        x: 1169
+        y: 1047
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 825ab6b61cc2696d0800000000000000
+      internalID: -2984148493843847896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: health orb_79
+      rect:
+        serializedVersion: 2
+        x: 2358
+        y: 1046
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c26f118f06834ac70800000000000000
+      internalID: 8981365546013554220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: health orb_80
+      rect:
+        serializedVersion: 2
+        x: 2390
+        y: 1036
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ec951f860b621c20800000000000000
+      internalID: 3175718363164155108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: health orb_81
+      rect:
+        serializedVersion: 2
+        x: 2409
+        y: 1038
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b0bb14e5142c2520800000000000000
+      internalID: 2678555554818535600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: health orb_82
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 1035
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 315c7424b5ca3da30800000000000000
+      internalID: 4238921182239769875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: health orb_83
+      rect:
+        serializedVersion: 2
+        x: 1137
+        y: 1031
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6eb6b9ea6e3eb8440800000000000000
+      internalID: 4939291996253285350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: health orb_84
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 1032
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9836fe4aa27489f70800000000000000
+      internalID: 9194176887758218121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: health orb_85
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 1034
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce45300bb22b63d60800000000000000
+      internalID: 7869673299582866668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: health orb_86
+      rect:
+        serializedVersion: 2
+        x: 2344
+        y: 1034
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bf5699201aeeb400800000000000000
+      internalID: 341967976864833464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: health orb_87
+      rect:
+        serializedVersion: 2
+        x: 2366
+        y: 1034
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 315c408f07d2fb740800000000000000
+      internalID: 5169900860465267987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: health orb_88
+      rect:
+        serializedVersion: 2
+        x: 2394
+        y: 1032
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3369fd99811188a0800000000000000
+      internalID: -6304738720583425220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: health orb_89
+      rect:
+        serializedVersion: 2
+        x: 2415
+        y: 1023
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baed766b6101335c0800000000000000
+      internalID: -4237025134689919317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: health orb_90
+      rect:
+        serializedVersion: 2
+        x: 2434
+        y: 1033
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81a687e862bd73100800000000000000
+      internalID: 87779676402510360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: health orb_91
+      rect:
+        serializedVersion: 2
+        x: 1009
+        y: 946
+        width: 66
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4fb6b2969079d3e0800000000000000
+      internalID: -2028466365144842417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: health orb_92
+      rect:
+        serializedVersion: 2
+        x: 1094
+        y: 1022
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77befef0141e6da40800000000000000
+      internalID: 5392745273379253111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: health orb_93
+      rect:
+        serializedVersion: 2
+        x: 1113
+        y: 1026
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f80d392b30121d1f0800000000000000
+      internalID: -1021999340671741809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: health orb_94
+      rect:
+        serializedVersion: 2
+        x: 1145
+        y: 1016
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cf613c768b9402b0800000000000000
+      internalID: -5619195433139998775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: health orb_95
+      rect:
+        serializedVersion: 2
+        x: 2399
+        y: 1024
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a234a5ff696eb3fa0800000000000000
+      internalID: -5819804557242645718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: health orb_96
+      rect:
+        serializedVersion: 2
+        x: 2434
+        y: 1028
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2534c948b3def0810800000000000000
+      internalID: 1733865221444617042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: health orb_97
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 987
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5629b6ccc120531e0800000000000000
+      internalID: -2218864918698159515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: health orb_98
+      rect:
+        serializedVersion: 2
+        x: 1083
+        y: 999
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dac65b62499d790b0800000000000000
+      internalID: -5721865571223114579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: health orb_99
+      rect:
+        serializedVersion: 2
+        x: 1106
+        y: 1003
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a946e703d77023cd0800000000000000
+      internalID: -2579991402263976806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: health orb_100
+      rect:
+        serializedVersion: 2
+        x: 1119
+        y: 1015
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 381094551090b0d80800000000000000
+      internalID: -8283517188287430269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: health orb_101
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 1001
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6874c2a04708c55b0800000000000000
+      internalID: -5378282619111979130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: health orb_102
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 1011
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ded24226d396c540800000000000000
+      internalID: 5027868581912829654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: health orb_103
+      rect:
+        serializedVersion: 2
+        x: 1171
+        y: 1005
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6cccaf6467cbaac0800000000000000
+      internalID: -3842758622846333843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: health orb_104
+      rect:
+        serializedVersion: 2
+        x: 1174
+        y: 1014
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8241631a72a613fd0800000000000000
+      internalID: -2363991610951855064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: health orb_105
+      rect:
+        serializedVersion: 2
+        x: 2405
+        y: 1015
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1f3ec56d315d8590800000000000000
+      internalID: -7670385266199216358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: health orb_106
+      rect:
+        serializedVersion: 2
+        x: 2416
+        y: 1007
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9ea4f2ed8338dd30800000000000000
+      internalID: 4456368515774197403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: health orb_107
+      rect:
+        serializedVersion: 2
+        x: 2426
+        y: 992
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5522204770b579130800000000000000
+      internalID: 3573424916910973525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: health orb_108
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 1005
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e8114068033f3050800000000000000
+      internalID: 5782396557634640100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: health orb_109
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 996
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9973d27504ee9dfb0800000000000000
+      internalID: -4622401582411204711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: health orb_110
+      rect:
+        serializedVersion: 2
+        x: 1156
+        y: 1003
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34f1e15177285c2f0800000000000000
+      internalID: -953212298151977149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: health orb_111
+      rect:
+        serializedVersion: 2
+        x: 2367
+        y: 1003
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a67a84be273a88c0800000000000000
+      internalID: -3996321045600897371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: health orb_112
+      rect:
+        serializedVersion: 2
+        x: 2408
+        y: 992
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 556c60682e5509090800000000000000
+      internalID: -8029823704202033579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: health orb_113
+      rect:
+        serializedVersion: 2
+        x: 2428
+        y: 979
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e748196c342cfc50800000000000000
+      internalID: 6700270187500292072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: health orb_114
+      rect:
+        serializedVersion: 2
+        x: 2460
+        y: 1000
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1334bcbb30942dae0800000000000000
+      internalID: -1526077043340786895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: health orb_115
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 976
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18b3e16d26f959a30800000000000000
+      internalID: 4221455472577624961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: health orb_116
+      rect:
+        serializedVersion: 2
+        x: 1105
+        y: 994
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 913ff5b900b7f77d0800000000000000
+      internalID: -2918478790975818983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: health orb_117
+      rect:
+        serializedVersion: 2
+        x: 1111
+        y: 989
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d70846c4c4a90d130800000000000000
+      internalID: 3589538555504132221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: health orb_118
+      rect:
+        serializedVersion: 2
+        x: 1139
+        y: 993
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7eb9b644bbd39d30800000000000000
+      internalID: 4437131625217244796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: health orb_119
+      rect:
+        serializedVersion: 2
+        x: 1142
+        y: 987
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ec2b5f9e6c400dd0800000000000000
+      internalID: -2521931753323811610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: health orb_120
+      rect:
+        serializedVersion: 2
+        x: 1164
+        y: 989
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dcaf371cbab72570800000000000000
+      internalID: 8441921343535951062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: health orb_121
+      rect:
+        serializedVersion: 2
+        x: 2350
+        y: 995
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8e03ca4005f5d1c0800000000000000
+      internalID: -4479404872746987891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: health orb_122
+      rect:
+        serializedVersion: 2
+        x: 2373
+        y: 990
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7cbd80c8a43a02d0800000000000000
+      internalID: -3311776676587914113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: health orb_123
+      rect:
+        serializedVersion: 2
+        x: 2398
+        y: 995
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d2bf439dc1c813b0800000000000000
+      internalID: -5541466252795464999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: health orb_124
+      rect:
+        serializedVersion: 2
+        x: 2403
+        y: 989
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aff575a05e07c1c50800000000000000
+      internalID: 6637304079860588538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: health orb_125
+      rect:
+        serializedVersion: 2
+        x: 2466
+        y: 994
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 071eae2030fa1a260800000000000000
+      internalID: 7107154114436063600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: health orb_126
+      rect:
+        serializedVersion: 2
+        x: 1067
+        y: 970
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2306ac1b76417840800000000000000
+      internalID: 5220030937674679085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: health orb_127
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 981
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b09722bd650376a0800000000000000
+      internalID: -6452807872393277260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: health orb_128
+      rect:
+        serializedVersion: 2
+        x: 1106
+        y: 972
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd609bf6a49119d80800000000000000
+      internalID: -8245781635245996321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: health orb_129
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 974
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fdd06f74bcaac7d0800000000000000
+      internalID: -2897313519028347400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: health orb_130
+      rect:
+        serializedVersion: 2
+        x: 1141
+        y: 971
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a59a1cca834a664c0800000000000000
+      internalID: -4294564631327692454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: health orb_131
+      rect:
+        serializedVersion: 2
+        x: 1146
+        y: 978
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2affccc3e0431a320800000000000000
+      internalID: 2567390498332147618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: health orb_132
+      rect:
+        serializedVersion: 2
+        x: 1162
+        y: 970
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 939128282305264b0800000000000000
+      internalID: -5448704421296727751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: health orb_133
+      rect:
+        serializedVersion: 2
+        x: 1175
+        y: 977
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8a962d4867c375a0800000000000000
+      internalID: -6524652184344814961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: health orb_134
+      rect:
+        serializedVersion: 2
+        x: 2319
+        y: 966
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d6bad1cd5b73f3e0800000000000000
+      internalID: -2021136165144709421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: health orb_135
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 977
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09c59517380b057a0800000000000000
+      internalID: -6390413792649847664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: health orb_136
+      rect:
+        serializedVersion: 2
+        x: 2444
+        y: 973
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8aa57562804a15b0800000000000000
+      internalID: -5396930274657981809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: health orb_137
+      rect:
+        serializedVersion: 2
+        x: 2457
+        y: 975
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef134bb3e502c66e0800000000000000
+      internalID: -1843062558400695810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: health orb_138
+      rect:
+        serializedVersion: 2
+        x: 2468
+        y: 980
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f5c03ff3af2d0240800000000000000
+      internalID: 4759512762608043512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: health orb_139
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 968
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e091ea3e787760700800000000000000
+      internalID: 506223433649887502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: health orb_140
+      rect:
+        serializedVersion: 2
+        x: 1082
+        y: 959
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c466ab23743418f20800000000000000
+      internalID: 3423091164851103308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: health orb_141
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 963
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83d7c47a51a14fd30800000000000000
+      internalID: 4464221810934447416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: health orb_142
+      rect:
+        serializedVersion: 2
+        x: 1117
+        y: 958
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1243fa6a740cde920800000000000000
+      internalID: 3021282339007181857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: health orb_143
+      rect:
+        serializedVersion: 2
+        x: 1131
+        y: 965
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29b3ae6506f05b1d0800000000000000
+      internalID: -3335743042548515950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: health orb_144
+      rect:
+        serializedVersion: 2
+        x: 1137
+        y: 962
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed4c4e18e90dafa10800000000000000
+      internalID: 1944095568366453982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: health orb_145
+      rect:
+        serializedVersion: 2
+        x: 1142
+        y: 964
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f536796eea495ccf0800000000000000
+      internalID: -232616326825811105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: health orb_146
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 964
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4a45d67adaccce00800000000000000
+      internalID: 1066450251425335885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: health orb_147
+      rect:
+        serializedVersion: 2
+        x: 1167
+        y: 954
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 947ab4cf166a415e0800000000000000
+      internalID: -1939742599714986167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: health orb_148
+      rect:
+        serializedVersion: 2
+        x: 2331
+        y: 962
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d17fe3bc8fba92f90800000000000000
+      internalID: -6977857062583732451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: health orb_149
+      rect:
+        serializedVersion: 2
+        x: 2348
+        y: 962
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5fadac29de0454f0800000000000000
+      internalID: -841030904491167910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: health orb_150
+      rect:
+        serializedVersion: 2
+        x: 2379
+        y: 963
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17329ffb24c990b30800000000000000
+      internalID: 4254103133530694513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: health orb_151
+      rect:
+        serializedVersion: 2
+        x: 2396
+        y: 964
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fc85e5569f582cb0800000000000000
+      internalID: -4888552296219833104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: health orb_152
+      rect:
+        serializedVersion: 2
+        x: 2408
+        y: 965
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df276d1c095928190800000000000000
+      internalID: -7961636742277729539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: health orb_153
+      rect:
+        serializedVersion: 2
+        x: 2417
+        y: 964
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5618dbed0f21d3bd0800000000000000
+      internalID: -2648940180085571227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: health orb_154
+      rect:
+        serializedVersion: 2
+        x: 2432
+        y: 963
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f81dd13e476a1de10800000000000000
+      internalID: 2220739112227164559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: health orb_155
+      rect:
+        serializedVersion: 2
+        x: 1101
+        y: 953
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c211be294df3c0720800000000000000
+      internalID: 2813694049430212908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: health orb_156
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 954
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 025651db74a14e6a0800000000000000
+      internalID: -6420978273306188512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: health orb_157
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 959
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 334dd615a5536d430800000000000000
+      internalID: 3807289197017814067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: health orb_158
+      rect:
+        serializedVersion: 2
+        x: 2355
+        y: 952
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26e4f1624fcdf69b0800000000000000
+      internalID: -5084602513108283806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: health orb_159
+      rect:
+        serializedVersion: 2
+        x: 2367
+        y: 957
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53b5d57f36f455c40800000000000000
+      internalID: 5500389810673376053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: health orb_160
+      rect:
+        serializedVersion: 2
+        x: 2397
+        y: 954
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df660c4e27a571970800000000000000
+      internalID: 8725542252564211453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: health orb_161
+      rect:
+        serializedVersion: 2
+        x: 2411
+        y: 956
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b7f7bd26d9bebf50800000000000000
+      internalID: 6899156008719349680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: health orb_162
+      rect:
+        serializedVersion: 2
+        x: 2444
+        y: 957
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e183d8f56539a7050800000000000000
+      internalID: 5799109469372495902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: health orb_163
+      rect:
+        serializedVersion: 2
+        x: 1106
+        y: 950
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66b1a132c143086f0800000000000000
+      internalID: -684489847907673242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: health orb_164
+      rect:
+        serializedVersion: 2
+        x: 1131
+        y: 948
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8102684a2aa70f7d0800000000000000
+      internalID: -2886672522180943848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: health orb_165
+      rect:
+        serializedVersion: 2
+        x: 1139
+        y: 947
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21289330b5245f610800000000000000
+      internalID: 1654301396792082962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: health orb_166
+      rect:
+        serializedVersion: 2
+        x: 1144
+        y: 932
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 228ca458396956e60800000000000000
+      internalID: 7954929877160478754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: health orb_167
+      rect:
+        serializedVersion: 2
+        x: 2330
+        y: 947
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da33b71f55fa22990800000000000000
+      internalID: -7412169253039950931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: health orb_168
+      rect:
+        serializedVersion: 2
+        x: 2340
+        y: 944
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c855164cb2ac9f720800000000000000
+      internalID: 2880555726007260556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: health orb_169
+      rect:
+        serializedVersion: 2
+        x: 2365
+        y: 939
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 715a0c312784d3260800000000000000
+      internalID: 7078893844091151639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: health orb_170
+      rect:
+        serializedVersion: 2
+        x: 2378
+        y: 949
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a6a9c36d17e39d20800000000000000
+      internalID: 3284222666697451175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: health orb_171
+      rect:
+        serializedVersion: 2
+        x: 2385
+        y: 948
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73cdb5fdef1736110800000000000000
+      internalID: 1252970460822101047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: health orb_172
+      rect:
+        serializedVersion: 2
+        x: 1108
+        y: 943
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7c322971eb293520800000000000000
+      internalID: 2682223300475763835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: health orb_173
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 936
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbf80eab4732acbd0800000000000000
+      internalID: -2609234049849323588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: health orb_174
+      rect:
+        serializedVersion: 2
+        x: 2333
+        y: 938
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c03882f79c52df3a0800000000000000
+      internalID: -6630101529067486452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: health orb_175
+      rect:
+        serializedVersion: 2
+        x: 2344
+        y: 936
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01d3c92fc287a1550800000000000000
+      internalID: 6132345977062571280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: health orb_176
+      rect:
+        serializedVersion: 2
+        x: 2425
+        y: 941
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6324d589d4d5fb100800000000000000
+      internalID: 125921902439776822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: health orb_177
+      rect:
+        serializedVersion: 2
+        x: 1149
+        y: 930
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e732b63c3e6e7560800000000000000
+      internalID: 7313404049791006697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: health orb_178
+      rect:
+        serializedVersion: 2
+        x: 2349
+        y: 927
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7aa6cccae93fa680800000000000000
+      internalID: -8741704671082141060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: health orb_179
+      rect:
+        serializedVersion: 2
+        x: 2402
+        y: 935
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5a4e81848ac0c9a0800000000000000
+      internalID: -6214744815313204642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: health orb_180
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 922
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90b54f36df818ca60800000000000000
+      internalID: 7694427439945243401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: health orb_181
+      rect:
+        serializedVersion: 2
+        x: 1156
+        y: 915
+        width: 27
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 264804be07a779f70800000000000000
+      internalID: 9193951789701956706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: health orb_182
+      rect:
+        serializedVersion: 2
+        x: 2371
+        y: 926
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4af42abf07fdd5040800000000000000
+      internalID: 4638108867612528548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: health orb_183
+      rect:
+        serializedVersion: 2
+        x: 2552
+        y: 883
+        width: 47
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 752e30c9c99411450800000000000000
+      internalID: 6057703910771253847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: health orb_184
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 910
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c295299bad8637990800000000000000
+      internalID: -7389447274959316692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: health orb_185
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 915
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d20c91ae614ea5010800000000000000
+      internalID: 1178505039578775597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: health orb_186
+      rect:
+        serializedVersion: 2
+        x: 2331
+        y: 914
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98df6f3eaf5d37f50800000000000000
+      internalID: 6878076329468034441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: health orb_187
+      rect:
+        serializedVersion: 2
+        x: 2352
+        y: 909
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37bc1e71d8f65e390800000000000000
+      internalID: -7789697328685659277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: health orb_188
+      rect:
+        serializedVersion: 2
+        x: 2361
+        y: 907
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aecad390a1090d810800000000000000
+      internalID: 1788087493564673258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: health orb_189
+      rect:
+        serializedVersion: 2
+        x: 1149
+        y: 847
+        width: 52
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 591da0458fc8f8ce0800000000000000
+      internalID: -1400745960899161707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: health orb_190
+      rect:
+        serializedVersion: 2
+        x: 1933
+        y: 600
+        width: 49
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 071fe48650b714cf0800000000000000
+      internalID: -269799239510462096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: health orb_191
+      rect:
+        serializedVersion: 2
+        x: 1968
+        y: 571
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a2614acd80f5e250800000000000000
+      internalID: 5973444972551168676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -19,11 +19,6 @@ public class PlayerHealth : MonoBehaviour
 
     public GameManager gameManager; //when player health is at 0 the death panel pops up
 
-    public void Heal (float amount)
-    {
-        health += amount;
-        health = Mathf.Min(health, maxHealth);
-    }
     
     void Start() //player starts with full health
     {

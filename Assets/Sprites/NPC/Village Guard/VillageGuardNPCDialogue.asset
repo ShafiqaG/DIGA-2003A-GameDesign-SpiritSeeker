@@ -10,14 +10,14 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 51d48a8501c64fd4794db94d26b29b84, type: 3}
-  m_Name: NPCDialogue
+  m_Name: VillageGuardNPCDialogue
   m_EditorClassIdentifier: 
-  npcName: Lajia
-  npcPortrait: {fileID: -1940738496428130850, guid: 7a3a076fcdfdf1f4ca2a2d750bacecd7, type: 3}
+  npcName: Village Guard
+  npcPortrait: {fileID: -6595047847376563879, guid: a64b264402d0e2a4fa16f1202bc8e8ee, type: 3}
   dialogueLines:
-  - Hi there!
-  - Would you like some advice for your journey?
-  - Remember to stay hydrated!
-  autoProgressLine: 010100
+  - You must be Luraka, nice to meet you!
+  - If you don't have the ARTIFACT as yet, ask GRANDMA AIYANA
+  - The artifact will grant you a pass through the village gates
+  autoProgressLine: 010101
   autoProgressDelay: 1.5
   typingSpeed: 0.05
