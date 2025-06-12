@@ -7,13 +7,15 @@ using UnityEngine.InputSystem;//calss/references unity's input system
 
 public class Lurakamovement : MonoBehaviour
 
+   
+
 {
     public static Lurakamovement instance;
     private float moveSpeed = 5f;
     private Rigidbody2D rb;
     private Vector2 moveInput;
     private Animator animator; //references the animator for the character's animation
-
+    public ParticleSystem dust;
     private void Awake()
     {
         instance = this;
@@ -28,6 +30,7 @@ public class Lurakamovement : MonoBehaviour
 
     void Update()
     {
+    
         rb.linearVelocity = moveInput * moveSpeed; //we initially used "rb.velocity" but unity suggested we change it to "rb.linearVelocity" because "rb.velocity was obsolete
     }
 
@@ -37,6 +40,7 @@ public class Lurakamovement : MonoBehaviour
 
       if (context.canceled)
       {
+      
           animator.SetBool("isWalking", false);
           animator.SetFloat("LastInputX", moveInput.x);
           animator.SetFloat("LastInputY", moveInput.y);
@@ -80,4 +84,5 @@ public class Lurakamovement : MonoBehaviour
         yield return 0;
     }
     
+
 }
