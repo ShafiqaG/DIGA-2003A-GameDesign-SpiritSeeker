@@ -14,6 +14,10 @@ public class NPCDialogue : ScriptableObject
     internal object autoProgressLines;
 
     public DialogueChoice[] choices;
+
+    public int questInProgressIndex;
+    public int questCompletedIndex;
+    public Quest quest;
 }
 //all the elements needed for the NPC dialogue
 
@@ -24,6 +28,7 @@ public class DialogueChoice
     public int dialogueIndex; //shows the dialogue choices 
     public string[] choices; //response options
     public int[] nextDialogueIndexes; //the choice branch and outcome
+    public bool[] givesQuest; //the choice which gives a quest 
 }
 
 //Title: Add NPC and Dialogue System to your Game - Top Down Unity 2D #19
