@@ -11,7 +11,7 @@ public class Lurakamovement : MonoBehaviour
 
 {
     public static Lurakamovement instance;
-    private float moveSpeed = 5f;
+    private float moveSpeed = 10f;
     private Rigidbody2D rb;
     private Vector2 moveInput;
     private Animator animator; //references the animator for the character's animation

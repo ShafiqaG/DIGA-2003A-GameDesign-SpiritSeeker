@@ -7,7 +7,7 @@ public class PickUp : MonoBehaviour
     public Inventorycontrol Inventory;
     public GameObject PickedItem;
 
-    public GameObject inventoryPanel;
+    
 
 
     AudioManager audioManager;
@@ -23,7 +23,6 @@ public class PickUp : MonoBehaviour
         Inventory = GameObject.FindGameObjectWithTag("Inventory").GetComponent<Inventorycontrol>(); //collects the items
         Debug.Log(Inventory.Slots.Length);
 
-        RebuildItemCounts();
     }
 
     private void Awake()
@@ -31,25 +30,7 @@ public class PickUp : MonoBehaviour
         audioManager = GameObject.FindGameObjectWithTag("Audio").GetComponent<AudioManager>(); //plays a sound whenever the item is collected
     }
 
-    public void RebuildItemCounts()
-    {
-        itemsCountCache.Clear();
-        foreach(Transform slotTransform in inventoryPanel.transform)
-        {
-            Slot slot = slotTransform.GetComponent<Slot>();
-            if (slot.currentItem != null)
-            {
-                Item item = slot.currentItem.GetComponent<Item>();
-                if (item != null)
-                {
-                    itemsCountCache[item.ID] = itemsCountCache.GetValueOrDefault(item.ID, 0) + 1;
-                }
-            }
-        }
-
-        OnInventoryChanged?.Invoke();
-
-    }
+   
 
     public Dictionary<int, int>GetItemCounts() => itemsCountCache;
 
@@ -75,8 +56,6 @@ public class PickUp : MonoBehaviour
                     audioManager.PlaySFX(audioManager.collectingwater); //plays the sound
                     Destroy(gameObject); //destroys the cacti on the scene
                     Inventory.Taken[i] = true;
-
-                    RebuildItemCounts();
 
                     return; //makes sure that all slots get filled instead of just one
 

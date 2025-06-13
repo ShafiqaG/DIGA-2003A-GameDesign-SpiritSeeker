@@ -1,4 +1,7 @@
-﻿internal class Item
+using UnityEngine;
+
+public class Item : MonoBehaviour
 {
-    public int ID { get; internal set; }
+    public int ID;
+    internal int quantity;
 }

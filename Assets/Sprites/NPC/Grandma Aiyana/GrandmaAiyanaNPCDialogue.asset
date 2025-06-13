@@ -20,8 +20,11 @@ MonoBehaviour:
   - Before I give you the artifact, the Idara Amulet, I have a small favour to ask
   - Please fetch 6 CACTUS WATER for me
   - 'Oh..see you later dear child '
-  autoProgressLine: 010100
-  endDialogueLines: 00000101
+  - A youthful spirit like yours should not be so forgetful
+  - Thank you dear! May the Spirit Animals protect you on your journey
+  - Now, take this amulet and be on your way dear
+  autoProgressLine: 01010000000100
+  endDialogueLines: 00000101010001
   autoProgressDelay: 1.5
   typingSpeed: 0.05
   choices:
@@ -30,3 +33,7 @@ MonoBehaviour:
     - Of Course, how can I help?
     - Maybe later
     nextDialogueIndexes: 0200000003000000
+    givesQuest: 0100
+  questInProgressIndex: 4
+  questCompletedIndex: 5
+  quest: {fileID: 11400000, guid: 6c82334c3e2dd8249b06e832cfb716fd, type: 2}

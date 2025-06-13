@@ -14,7 +14,7 @@ public class QuestController : MonoBehaviour
         else Destroy(gameObject);
 
         questUI = FindAnyObjectByType<QuestUI>();
-        PickUp.Instance.OnInventoryChanged += CheckInventoryForQuests;
+        InventoryController.Instance.OnInventoryChanged += CheckInventoryForQuests;
     }
 
     public void AcceptQuest(Quest quest)
@@ -30,7 +30,7 @@ public class QuestController : MonoBehaviour
 
     public void CheckInventoryForQuests()
     {
-        Dictionary<int, int> itemCounts = PickUp.Instance.GetitemCounts();
+        Dictionary<int, int> itemCounts = InventoryController.Instance.GetItemCounts();
 
         foreach(QuestProgress quest in activeQuests)
         {
@@ -45,9 +45,8 @@ public class QuestController : MonoBehaviour
                 {
                     questObjective.currentAmount = newAmount;
                 }
-                {
+               
                     
-                }
             }
         }
 
