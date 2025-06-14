@@ -12,6 +12,9 @@ TagManager:
   - gameObject
   - Audio
   - InventoryFullPanel
+  - Item
+  - Artifact
+  - Dull Artifact
   layers:
   - Default
   - TransparentFX

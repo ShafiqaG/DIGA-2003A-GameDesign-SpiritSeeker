@@ -29,6 +29,7 @@ public class Health : MonoBehaviour
         {
             pHealth.health += healAmount; //heals
             audioManager.PlaySFX(audioManager.RegainingHealth);
+            Destroy(gameObject);
         }
     }
 

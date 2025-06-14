@@ -10,14 +10,14 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: cba544a9ea7eb604a90abed530f4e7dd, type: 3}
-  m_Name: CollectWater
+  m_Name: Head to Village Guard
   m_EditorClassIdentifier: 
-  questID: f1931aa5-1df2-4341-9012-675804064a15
-  questName: CollectWater
-  description: Collect water from 6 cacti for Grandma Aiyana
+  questID: Hf6e42f26-ec90-4649-95c1-18a0b1777fc7
+  questName: Head to Village Guard
+  description: Find the village guard and try to leave the village
   objectives:
   - objectiveID: 
-    description: Collect water from 6 cacti for Grandma Aiyana
-    type: 0
-    requiredAmount: 6
+    description: Find the Village Guard
+    type: 2
+    requiredAmount: 0
     currentAmount: 0

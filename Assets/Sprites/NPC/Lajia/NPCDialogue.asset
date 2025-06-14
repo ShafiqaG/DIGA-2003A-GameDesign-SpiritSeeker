@@ -15,10 +15,24 @@ MonoBehaviour:
   npcName: Lajia
   npcPortrait: {fileID: -1940738496428130850, guid: 7a3a076fcdfdf1f4ca2a2d750bacecd7, type: 3}
   dialogueLines:
-  - Hello Luraka! I hear you are preparing for your journey.
-  - 'Just beware of the ROTTING CACTI, they can be quite dangerous! '
-  - If you are injured, the village has plenting of HEALING POTIONS near the TENTS.
-  - You should head down to the VILLAGE GUARD as soon as possible.
-  autoProgressLine: 010101
+  - Hello Luraka! I hear you are preparing for your journey, just beware of the dangerous
+    ROTTING CACTI.
+  - If you are injured, the village has plenty of HEALING POTIONS near the TENTS.
+  - Oh! and don't be silly and walk into any of the campfires
+  - You should head to the village guard so he can let you leave the village
+  - See you!
+  - The village gate signs should lead you to the gaurd
+  autoProgressLine: 010100000000
+  endDialogueLines: 000000000101
   autoProgressDelay: 1.5
   typingSpeed: 0.05
+  choices:
+  - dialogueIndex: 1
+    choices:
+    - Thanks Lajia! Any other advice?
+    - Thanks Lajia! My journey awaits, no time to lose! See you later
+    nextDialogueIndexes: 0200000004000000
+    givesQuest: 0100
+  questInProgressIndex: 5
+  questCompletedIndex: 0
+  quest: {fileID: 11400000, guid: 4bee23710c116cd49b17145e3f86297c, type: 2}

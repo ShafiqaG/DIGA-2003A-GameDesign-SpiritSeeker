@@ -12,9 +12,6 @@ public class PickUp : MonoBehaviour
 
     AudioManager audioManager;
 
-    public static Inventorycontrol Instance {  get; private set; }
-    Dictionary<int, int> itemsCountCache = new();
-    public event Action OnInventoryChanged; //notifies the quest system 
    
 
 
@@ -32,7 +29,7 @@ public class PickUp : MonoBehaviour
 
    
 
-    public Dictionary<int, int>GetItemCounts() => itemsCountCache;
+    
 
     void Update()
     {
