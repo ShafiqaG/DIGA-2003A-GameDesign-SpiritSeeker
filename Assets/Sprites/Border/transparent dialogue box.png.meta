@@ -1,13 +1,13 @@
 fileFormatVersion: 2
-guid: d8abd1fc77eea0743988c32f76810c4b
+guid: d451e261e50796c499afbb9421aa95f6
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 8292961744653138884
-    second: artifact 1_0
+      213: -5676407086126666944
+    second: transparent dialogue box_0
   - first:
-      213: 2049954945212874715
-    second: artifact 1_1
+      213: 1272238170750544312
+    second: transparent dialogue box_1
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -116,13 +116,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: artifact 1_0
+      name: transparent dialogue box_0
       rect:
         serializedVersion: 2
-        x: 738
-        y: 232
-        width: 2141
-        height: 2018
+        x: 245
+        y: 686
+        width: 3018
+        height: 1108
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -131,20 +131,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 4cb34fdc4c4861370800000000000000
-      internalID: 8292961744653138884
+      spriteID: 04be8ee74d95931b0800000000000000
+      internalID: -5676407086126666944
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: artifact 1_1
+      name: transparent dialogue box_1
       rect:
         serializedVersion: 2
-        x: 1924
-        y: 2232
-        width: 49
-        height: 42
+        x: 457
+        y: 861
+        width: 22
+        height: 28
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -153,8 +153,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: bdff7fa5927e27c10800000000000000
-      internalID: 2049954945212874715
+      spriteID: 8b9674d20e5e7a110800000000000000
+      internalID: 1272238170750544312
       vertices: []
       indices: 
       edges: []
@@ -172,9 +172,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      artifact 1_0: 8292961744653138884
-      artifact 1_1: 2049954945212874715
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

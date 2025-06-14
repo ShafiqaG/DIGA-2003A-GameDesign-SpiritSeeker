@@ -1,0 +1,1030 @@
+fileFormatVersion: 2
+guid: 882d242159da0b948ae6e8b97dde40c9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1844151153969066245
+    second: juice,png_0
+  - first:
+      213: -489306882021342824
+    second: juice,png_1
+  - first:
+      213: -1409826797527263485
+    second: juice,png_2
+  - first:
+      213: -8290659529580071874
+    second: juice,png_3
+  - first:
+      213: -16029620036432967
+    second: juice,png_4
+  - first:
+      213: 7266783827659834196
+    second: juice,png_5
+  - first:
+      213: 5544940621157263790
+    second: juice,png_6
+  - first:
+      213: 5243519447231172431
+    second: juice,png_7
+  - first:
+      213: 2243436152898119352
+    second: juice,png_8
+  - first:
+      213: -5569804116038198701
+    second: juice,png_9
+  - first:
+      213: 2839231647617226361
+    second: juice,png_10
+  - first:
+      213: 8756823196259732669
+    second: juice,png_11
+  - first:
+      213: -4262819111207765807
+    second: juice,png_12
+  - first:
+      213: 8960617297803776270
+    second: juice,png_13
+  - first:
+      213: 5347282077689204415
+    second: juice,png_14
+  - first:
+      213: -7018688596200639880
+    second: juice,png_15
+  - first:
+      213: 8787623379162638123
+    second: juice,png_16
+  - first:
+      213: -4552953510323944173
+    second: juice,png_17
+  - first:
+      213: -2846425128272620507
+    second: juice,png_18
+  - first:
+      213: -2265893773818845141
+    second: juice,png_19
+  - first:
+      213: -594871749832278838
+    second: juice,png_20
+  - first:
+      213: -2707786837090674505
+    second: juice,png_21
+  - first:
+      213: -1751678506238167446
+    second: juice,png_22
+  - first:
+      213: -15190414427610169
+    second: juice,png_23
+  - first:
+      213: 2114836589272393504
+    second: juice,png_24
+  - first:
+      213: -3172845705689989614
+    second: juice,png_25
+  - first:
+      213: 4325460475524747896
+    second: juice,png_26
+  - first:
+      213: -3178816606687418085
+    second: juice,png_27
+  - first:
+      213: -8970326204509260476
+    second: juice,png_28
+  - first:
+      213: 5645811261033282356
+    second: juice,png_29
+  - first:
+      213: -8033192261074978974
+    second: juice,png_30
+  - first:
+      213: -6921925925311588633
+    second: juice,png_31
+  - first:
+      213: 4838718415250168737
+    second: juice,png_32
+  - first:
+      213: 2777459279793489104
+    second: juice,png_33
+  - first:
+      213: 827046479095664261
+    second: juice,png_34
+  - first:
+      213: 9037993595316804033
+    second: juice,png_35
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: juice,png_0
+      rect:
+        serializedVersion: 2
+        x: 2186
+        y: 2440
+        width: 45
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfe0c83db424866e0800000000000000
+      internalID: -1844151153969066245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juice,png_1
+      rect:
+        serializedVersion: 2
+        x: 1712
+        y: 2322
+        width: 52
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 891c6f6bbf1a539f0800000000000000
+      internalID: -489306882021342824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juice,png_2
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 2261
+        width: 82
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3079f8a4ff94f6ce0800000000000000
+      internalID: -1409826797527263485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juice,png_3
+      rect:
+        serializedVersion: 2
+        x: 1885
+        y: 2293
+        width: 52
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e343ca96519a1fc80800000000000000
+      internalID: -8290659529580071874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juice,png_4
+      rect:
+        serializedVersion: 2
+        x: 2066
+        y: 2297
+        width: 43
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bb08df352d07cff0800000000000000
+      internalID: -16029620036432967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juice,png_5
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 248
+        width: 1336
+        height: 2012
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 453c733e36dc8d460800000000000000
+      internalID: 7266783827659834196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juice,png_6
+      rect:
+        serializedVersion: 2
+        x: 2317
+        y: 2239
+        width: 71
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea966b8dd1693fc40800000000000000
+      internalID: 5544940621157263790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juice,png_7
+      rect:
+        serializedVersion: 2
+        x: 2643
+        y: 2061
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4f0119e729b4c840800000000000000
+      internalID: 5243519447231172431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juice,png_8
+      rect:
+        serializedVersion: 2
+        x: 2473
+        y: 1898
+        width: 70
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b6e2c97b49422f10800000000000000
+      internalID: 2243436152898119352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juice,png_9
+      rect:
+        serializedVersion: 2
+        x: 2604
+        y: 1904
+        width: 48
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35ad803aaa414b2b0800000000000000
+      internalID: -5569804116038198701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juice,png_10
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 1744
+        width: 47
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 976954ff32af66720800000000000000
+      internalID: 2839231647617226361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juice,png_11
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 1494
+        width: 49
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbc46f52d4c768970800000000000000
+      internalID: 8756823196259732669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juice,png_12
+      rect:
+        serializedVersion: 2
+        x: 1073
+        y: 1440
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d8f6be8a9c67d4c0800000000000000
+      internalID: -4262819111207765807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juice,png_13
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 1338
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0190dbf4f18a5c70800000000000000
+      internalID: 8960617297803776270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juice,png_14
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 1368
+        width: 49
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbe4a72f7bc553a40800000000000000
+      internalID: 5347282077689204415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juice,png_15
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 1180
+        width: 71
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 872306a88eb989e90800000000000000
+      internalID: -7018688596200639880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juice,png_16
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 1075
+        width: 49
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2728ee87e8e3f970800000000000000
+      internalID: 8787623379162638123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juice,png_17
+      rect:
+        serializedVersion: 2
+        x: 1051
+        y: 537
+        width: 54
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 315064aa7e8a0d0c0800000000000000
+      internalID: -4552953510323944173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juice,png_18
+      rect:
+        serializedVersion: 2
+        x: 2410
+        y: 430
+        width: 38
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52490954d677f78d0800000000000000
+      internalID: -2846425128272620507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juice,png_19
+      rect:
+        serializedVersion: 2
+        x: 2429
+        y: 448
+        width: 45
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2822c03e9ded80e0800000000000000
+      internalID: -2265893773818845141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juice,png_20
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 340
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: accf4589b479eb7f0800000000000000
+      internalID: -594871749832278838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juice,png_21
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 381
+        width: 55
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b85bb7d7320c6ad0800000000000000
+      internalID: -2707786837090674505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juice,png_22
+      rect:
+        serializedVersion: 2
+        x: 2095
+        y: 246
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a66bcfaeda9c0b7e0800000000000000
+      internalID: -1751678506238167446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juice,png_23
+      rect:
+        serializedVersion: 2
+        x: 2192
+        y: 230
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c32d0806680acff0800000000000000
+      internalID: -15190414427610169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juice,png_24
+      rect:
+        serializedVersion: 2
+        x: 2310
+        y: 241
+        width: 81
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 027649d4ca8695d10800000000000000
+      internalID: 2114836589272393504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juice,png_25
+      rect:
+        serializedVersion: 2
+        x: 1140
+        y: 161
+        width: 81
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21e793124a9c7f3d0800000000000000
+      internalID: -3172845705689989614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juice,png_26
+      rect:
+        serializedVersion: 2
+        x: 2106
+        y: 228
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87215ad926f170c30800000000000000
+      internalID: 4325460475524747896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juice,png_27
+      rect:
+        serializedVersion: 2
+        x: 1973
+        y: 147
+        width: 56
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b19a848632392e3d0800000000000000
+      internalID: -3178816606687418085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juice,png_28
+      rect:
+        serializedVersion: 2
+        x: 2102
+        y: 166
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 445f8d408dff28380800000000000000
+      internalID: -8970326204509260476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juice,png_29
+      rect:
+        serializedVersion: 2
+        x: 2155
+        y: 155
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43bf9cadd63f95e40800000000000000
+      internalID: 5645811261033282356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juice,png_30
+      rect:
+        serializedVersion: 2
+        x: 2177
+        y: 151
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2677532433e548090800000000000000
+      internalID: -8033192261074978974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juice,png_31
+      rect:
+        serializedVersion: 2
+        x: 1959
+        y: 113
+        width: 40
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e65c3c7b0160ff90800000000000000
+      internalID: -6921925925311588633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juice,png_32
+      rect:
+        serializedVersion: 2
+        x: 1175
+        y: 35
+        width: 54
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ab902513c4962340800000000000000
+      internalID: 4838718415250168737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juice,png_33
+      rect:
+        serializedVersion: 2
+        x: 1362
+        y: 31
+        width: 51
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d40436df748b8620800000000000000
+      internalID: 2777459279793489104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juice,png_34
+      rect:
+        serializedVersion: 2
+        x: 2135
+        y: 30
+        width: 67
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58e0c3f04624a7b00800000000000000
+      internalID: 827046479095664261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juice,png_35
+      rect:
+        serializedVersion: 2
+        x: 2311
+        y: 0
+        width: 44
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c91d132a476d6d70800000000000000
+      internalID: 9037993595316804033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

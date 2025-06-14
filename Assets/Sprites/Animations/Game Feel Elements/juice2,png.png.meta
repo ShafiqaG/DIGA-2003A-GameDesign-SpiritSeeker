@@ -1,13 +1,10 @@
 fileFormatVersion: 2
-guid: d8abd1fc77eea0743988c32f76810c4b
+guid: d464cd51d6d19fb41a2561dc4829dc4a
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 8292961744653138884
-    second: artifact 1_0
-  - first:
-      213: 2049954945212874715
-    second: artifact 1_1
+      213: -7504586388548559106
+    second: juice2,png_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -116,13 +113,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: artifact 1_0
+      name: juice2,png_0
       rect:
         serializedVersion: 2
-        x: 738
-        y: 232
-        width: 2141
-        height: 2018
+        x: 1062
+        y: 385
+        width: 1533
+        height: 2020
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -131,30 +128,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 4cb34fdc4c4861370800000000000000
-      internalID: 8292961744653138884
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: artifact 1_1
-      rect:
-        serializedVersion: 2
-        x: 1924
-        y: 2232
-        width: 49
-        height: 42
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: bdff7fa5927e27c10800000000000000
-      internalID: 2049954945212874715
+      spriteID: efed45cc07a5ad790800000000000000
+      internalID: -7504586388548559106
       vertices: []
       indices: 
       edges: []
@@ -172,9 +147,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      artifact 1_0: 8292961744653138884
-      artifact 1_1: 2049954945212874715
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
