@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Cacti water tool tip_0: 2863711415703783536
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
