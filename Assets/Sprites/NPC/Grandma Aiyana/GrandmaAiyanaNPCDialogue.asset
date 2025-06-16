@@ -15,27 +15,26 @@ MonoBehaviour:
   npcName: Grandma Aiyana
   npcPortrait: {fileID: -5114743758707838332, guid: b87abe09cf08d394bac461893c0248ae, type: 3}
   dialogueLines:
-  - Oh hello dear child! Today marks the the beginning of your special journey across
-    the lands
-  - ' Why have you not left yet? Do you need some assistance?'
+  - Oh hello dear child! It is the day of your special journey, do you require assistance?
   - Oh haha! You mean the Idara Amulet, unfortunately I seem to have misplaced the
     last one I had
-  - There are many artifacts around the village, if you can find the Amulet then
-    you may use it to pass through the gates
+  - I seem to have misplaced the last one I had, but there are many artifacts around
+    the village
+  - If you can find the amulet, you may use it to pass through the gates
   - A youthful spirit like yours should not be so forgetful
   - 'Oh..see you later dear child '
-  - May the Spirit Animals protect you on your journey
-  autoProgressLine: 01010000000101
-  endDialogueLines: 00000001010101
+  - Special artifacts reflect blue energy, try looking around the totem poles
+  autoProgressLine: 010100000101
+  endDialogueLines: 0000000101000001
   autoProgressDelay: 1.5
   typingSpeed: 0.05
   choices:
-  - dialogueIndex: 1
+  - dialogueIndex: 0
     choices:
     - Yes please! I need an Ida- Idaru amulet
     - Maybe later
     nextDialogueIndexes: 0200000005000000
     givesQuest: 0100
   questInProgressIndex: 6
-  questCompletedIndex: 7
+  questCompletedIndex: 0
   quest: {fileID: 11400000, guid: 6c82334c3e2dd8249b06e832cfb716fd, type: 2}

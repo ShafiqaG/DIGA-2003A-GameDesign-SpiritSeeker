@@ -15,24 +15,24 @@ MonoBehaviour:
   npcName: Village Guard
   npcPortrait: {fileID: -6595047847376563879, guid: a64b264402d0e2a4fa16f1202bc8e8ee, type: 3}
   dialogueLines:
-  - You must be Luraka, nice to meet you!
-  - Do you have the Idara Amulet?
-  - It's very dangerous and isolated outside these walls, I cannot let you pass without
-    the amulet
+  - You must be Luraka, nice to meet you! Do you have the Idara Amulet?
   - Head over to GRANDMA AIYANA, she stays on the south side of the village
   - 'She should have an Idara Amulet to give you '
+  - It's very dangerous and isolated outside these gates, I cannot let you pass without
+    the amulet
   - Once you have it, you can leave the gates
-  autoProgressLine: 010101000000
-  endDialogueLines: 000000000001
+  - Goodluck on your special journey, you may leave once you have the amulet
+  autoProgressLine: 0101000000
+  endDialogueLines: 0000000001
   autoProgressDelay: 1.5
   typingSpeed: 0.05
   choices:
-  - dialogueIndex: 1
+  - dialogueIndex: 0
     choices:
     - Nice to meet you Mr Village Guard, no I do not
     - Nice to meet you Mr Village Guard, where do find that?
-    nextDialogueIndexes: 0200000003000000
-    givesQuest: 0100
-  questInProgressIndex: 0
+    nextDialogueIndexes: 0100000001000000
+    givesQuest: 0101
+  questInProgressIndex: 5
   questCompletedIndex: 0
   quest: {fileID: 11400000, guid: 383d1d3226e98d945820f48fcc8cff5c, type: 2}

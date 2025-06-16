@@ -17,7 +17,7 @@ MonoBehaviour:
   description: Find the artifact to leave the village
   objectives:
   - objectiveID: 
-    description: Find the correct artifact
+    description: Collect artifacts and find the Idara Amulet
     type: 3
     requiredAmount: 0
     currentAmount: 1

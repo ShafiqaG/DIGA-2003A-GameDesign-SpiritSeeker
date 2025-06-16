@@ -6,7 +6,7 @@ public class QuestLogMenuController : MonoBehaviour
    
     void Start()
     {
-        questlogmenuCanvas.SetActive(false); //ensures the quest log menu is closed when the game starts 
+        questlogmenuCanvas.SetActive(true); //ensures the quest log menu is closed when the game starts 
     }
 
     
