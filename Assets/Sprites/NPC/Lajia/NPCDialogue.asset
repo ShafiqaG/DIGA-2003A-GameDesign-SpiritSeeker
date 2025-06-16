@@ -17,11 +17,11 @@ MonoBehaviour:
   dialogueLines:
   - Hello Luraka! I hear you are preparing for your journey, just beware of the dangerous
     ROTTING CACTI.
-  - If you are injured, the village has plenty of HEALING POTIONS near the TENTS.
-  - You should head to the village guard so he can let you leave the village, oh
-    and don't be silly and walk into the campfires!
-  - See you
-  - Follow the village gate sign to get to the gaurd
+  - If you get injured, the village has plenty of HEALING POTIONS near the TENTS.
+  - You should head to the village guard so he can let you leave the village. Oh,
+    don't be silly and walk into the campfires!
+  - See you.
+  - Follow the village gate sign to get to the guard.
   autoProgressLine: 0101000000
   endDialogueLines: 0000000101
   autoProgressDelay: 1.5
@@ -32,7 +32,7 @@ MonoBehaviour:
     - Thanks Lajia! Any other advice?
     - Thanks Lajia! My journey awaits, no time to lose! See you later
     nextDialogueIndexes: 0200000003000000
-    givesQuest: 0100
+    givesQuest: 0101
   questInProgressIndex: 4
   questCompletedIndex: 0
   quest: {fileID: 11400000, guid: 4bee23710c116cd49b17145e3f86297c, type: 2}

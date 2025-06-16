@@ -16,12 +16,12 @@ MonoBehaviour:
   npcPortrait: {fileID: -6595047847376563879, guid: a64b264402d0e2a4fa16f1202bc8e8ee, type: 3}
   dialogueLines:
   - You must be Luraka, nice to meet you! Do you have the Idara Amulet?
-  - Head over to GRANDMA AIYANA, she stays on the south side of the village
-  - 'She should have an Idara Amulet to give you '
-  - It's very dangerous and isolated outside these gates, I cannot let you pass without
-    the amulet
-  - Once you have it, you can leave the gates
-  - Goodluck on your special journey, you may leave once you have the amulet
+  - Head over to GRANDMA AIYANA, she stays on the south side of the village.
+  - She should have an Idara Amulet to give you.
+  - It's very dangerous and isolated outside these gates. I cannot let you pass without
+    the amulet.
+  - Once you have it, you can leave the gates.
+  - Goodluck on your special journey, you may leave once you have the amulet.
   autoProgressLine: 0101000000
   endDialogueLines: 0000000001
   autoProgressDelay: 1.5

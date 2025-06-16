@@ -17,4 +17,4 @@ public class QuestLogMenuController : MonoBehaviour
             questlogmenuCanvas.SetActive(!questlogmenuCanvas.activeSelf);
         }
     }
-} //menu ui with tab switching- reference correctly later
+} 
