@@ -247,7 +247,12 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      ZZZ particle effect_0: -7912858621649072135
+      ZZZ particle effect_1: 2651146455163385316
+      ZZZ particle effect_2: -1160713970233863969
+      ZZZ particle effect_3: -7812762404556499768
+      ZZZ particle effect_4: 4703837109059046111
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

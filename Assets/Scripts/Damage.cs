@@ -5,6 +5,8 @@ public class Damage : MonoBehaviour
 {
     public PlayerHealth pHealth;
     public float damage;
+    public ParticleSystem damageParticlesPrefab;
+    public ParticleSystem healingParticlesPrefab;
 
     AudioManager audioManager;
     
@@ -29,6 +31,12 @@ public class Damage : MonoBehaviour
             pHealth.health -= damage; //deals damage
             audioManager.PlaySFX(audioManager.losinghealth);
 
+            if (damageParticlesPrefab != null)
+            {
+                Vector2 collisionPoint = other.contacts[0].point;
+                var particleSystem = Instantiate(damageParticlesPrefab, collisionPoint, Quaternion.identity);
+                particleSystem.Play();
+            }
 
             //Title: Apply Damage and Knockback to Enemies or Players in Unity 2022 2D Action RPG Tutorial
             //Author: YouTube-Chris' Tutorials
@@ -36,5 +44,6 @@ public class Damage : MonoBehaviour
             //Code Version: 6000.0.49f1 (LTS)
             //Availibility: https://www.youtube.com/watch?v=bRcMVkJS3XQ
         }
+        
     }
 }

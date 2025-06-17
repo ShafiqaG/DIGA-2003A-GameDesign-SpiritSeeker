@@ -1,0 +1,2180 @@
+fileFormatVersion: 2
+guid: ab89d0e709810ea40860259aaa0e6a6b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2112183970841554697
+    second: healing feedback - Copy_0
+  - first:
+      213: -4495465627238443651
+    second: healing feedback - Copy_1
+  - first:
+      213: -5879327082377928206
+    second: healing feedback - Copy_2
+  - first:
+      213: 8051611786781840209
+    second: healing feedback - Copy_3
+  - first:
+      213: -6502182954889009332
+    second: healing feedback - Copy_4
+  - first:
+      213: -7427927428894607362
+    second: healing feedback - Copy_5
+  - first:
+      213: -3983669056210541304
+    second: healing feedback - Copy_6
+  - first:
+      213: -2026551760706826746
+    second: healing feedback - Copy_7
+  - first:
+      213: 5435367716584006235
+    second: healing feedback - Copy_8
+  - first:
+      213: 8675829158020296923
+    second: healing feedback - Copy_9
+  - first:
+      213: 2120706341479314586
+    second: healing feedback - Copy_10
+  - first:
+      213: -833112373402570362
+    second: healing feedback - Copy_11
+  - first:
+      213: 8847441988717102788
+    second: healing feedback - Copy_12
+  - first:
+      213: -8120814678369291409
+    second: healing feedback - Copy_13
+  - first:
+      213: 2441304489236841597
+    second: healing feedback - Copy_14
+  - first:
+      213: 3636726099455227940
+    second: healing feedback - Copy_15
+  - first:
+      213: 7887458024843192823
+    second: healing feedback - Copy_16
+  - first:
+      213: 3373855175299032927
+    second: healing feedback - Copy_17
+  - first:
+      213: -6840770493175735124
+    second: healing feedback - Copy_18
+  - first:
+      213: -8403955072400662402
+    second: healing feedback - Copy_19
+  - first:
+      213: 643608888812777429
+    second: healing feedback - Copy_20
+  - first:
+      213: -4094032688094536572
+    second: healing feedback - Copy_21
+  - first:
+      213: 3268823199447727089
+    second: healing feedback - Copy_22
+  - first:
+      213: -2428944908014225929
+    second: healing feedback - Copy_23
+  - first:
+      213: 2110535859407248724
+    second: healing feedback - Copy_24
+  - first:
+      213: -1269881597298445791
+    second: healing feedback - Copy_25
+  - first:
+      213: -2611741030830442350
+    second: healing feedback - Copy_26
+  - first:
+      213: 1983710603200994435
+    second: healing feedback - Copy_27
+  - first:
+      213: -6560007209380142170
+    second: healing feedback - Copy_28
+  - first:
+      213: -4737969346755340466
+    second: healing feedback - Copy_29
+  - first:
+      213: 2916163658161856838
+    second: healing feedback - Copy_30
+  - first:
+      213: 8704477564302850553
+    second: healing feedback - Copy_31
+  - first:
+      213: 1427306403756206874
+    second: healing feedback - Copy_32
+  - first:
+      213: 8985384845355991054
+    second: healing feedback - Copy_33
+  - first:
+      213: -4385291293880228174
+    second: healing feedback - Copy_34
+  - first:
+      213: -747627071613474805
+    second: healing feedback - Copy_35
+  - first:
+      213: -6421103583659016705
+    second: healing feedback - Copy_36
+  - first:
+      213: -1467727773985001387
+    second: healing feedback - Copy_37
+  - first:
+      213: -343491403948186624
+    second: healing feedback - Copy_38
+  - first:
+      213: -7728803963238340051
+    second: healing feedback - Copy_39
+  - first:
+      213: 7512558797305572792
+    second: healing feedback - Copy_40
+  - first:
+      213: -1030465381265522176
+    second: healing feedback - Copy_41
+  - first:
+      213: -4481747303114574369
+    second: healing feedback - Copy_42
+  - first:
+      213: 3298867020153794543
+    second: healing feedback - Copy_43
+  - first:
+      213: 8954827035523476781
+    second: healing feedback - Copy_44
+  - first:
+      213: -3789372810828878894
+    second: healing feedback - Copy_45
+  - first:
+      213: -2509680740352914029
+    second: healing feedback - Copy_46
+  - first:
+      213: 2476204490542841645
+    second: healing feedback - Copy_47
+  - first:
+      213: 8546300539854725584
+    second: healing feedback - Copy_48
+  - first:
+      213: 7852958678715417173
+    second: healing feedback - Copy_49
+  - first:
+      213: -4337361711731580988
+    second: healing feedback - Copy_50
+  - first:
+      213: 1831126740636276439
+    second: healing feedback - Copy_51
+  - first:
+      213: -5335292756708695956
+    second: healing feedback - Copy_52
+  - first:
+      213: -6885842802363974607
+    second: healing feedback - Copy_53
+  - first:
+      213: 8057602499970370200
+    second: healing feedback - Copy_54
+  - first:
+      213: -4572761218596459258
+    second: healing feedback - Copy_55
+  - first:
+      213: -7494318545206856784
+    second: healing feedback - Copy_56
+  - first:
+      213: -7927517170463302169
+    second: healing feedback - Copy_57
+  - first:
+      213: -3412445865939513759
+    second: healing feedback - Copy_58
+  - first:
+      213: -3035492154315172716
+    second: healing feedback - Copy_59
+  - first:
+      213: -7763765792458145000
+    second: healing feedback - Copy_60
+  - first:
+      213: -5224892469132162685
+    second: healing feedback - Copy_61
+  - first:
+      213: -4856643000507662683
+    second: healing feedback - Copy_62
+  - first:
+      213: 2946566358796063505
+    second: healing feedback - Copy_63
+  - first:
+      213: -3384785938794235453
+    second: healing feedback - Copy_64
+  - first:
+      213: -7508984922038333814
+    second: healing feedback - Copy_65
+  - first:
+      213: 7966861633651527424
+    second: healing feedback - Copy_66
+  - first:
+      213: 8927610348174363506
+    second: healing feedback - Copy_67
+  - first:
+      213: 7140241134766709898
+    second: healing feedback - Copy_68
+  - first:
+      213: -6515977805860965695
+    second: healing feedback - Copy_69
+  - first:
+      213: 1461163393385099371
+    second: healing feedback - Copy_70
+  - first:
+      213: 726819863188919532
+    second: healing feedback - Copy_71
+  - first:
+      213: 4405284704335306579
+    second: healing feedback - Copy_72
+  - first:
+      213: -6833950950272681223
+    second: healing feedback - Copy_73
+  - first:
+      213: -4446830973251889386
+    second: healing feedback - Copy_74
+  - first:
+      213: 6498419888380943019
+    second: healing feedback - Copy_75
+  - first:
+      213: 6281872171652141273
+    second: healing feedback - Copy_76
+  - first:
+      213: -4559250981264628967
+    second: healing feedback - Copy_77
+  - first:
+      213: -7949245309287489049
+    second: healing feedback - Copy_78
+  - first:
+      213: -7003218788584793742
+    second: healing feedback - Copy_79
+  - first:
+      213: -7703237686609388656
+    second: healing feedback - Copy_80
+  - first:
+      213: 2672503558736855921
+    second: healing feedback - Copy_81
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationDetail: -1
+  textureType: 0
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: healing feedback - Copy_0
+      rect:
+        serializedVersion: 2
+        x: 1399
+        y: 1763
+        width: 771
+        height: 608
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90fe842712cff4d10800000000000000
+      internalID: 2112183970841554697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healing feedback - Copy_1
+      rect:
+        serializedVersion: 2
+        x: 2258
+        y: 2195
+        width: 239
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d75597c74d5ec91c0800000000000000
+      internalID: -4495465627238443651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healing feedback - Copy_2
+      rect:
+        serializedVersion: 2
+        x: 1396
+        y: 2051
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f1a7882b2f686ea0800000000000000
+      internalID: -5879327082377928206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healing feedback - Copy_3
+      rect:
+        serializedVersion: 2
+        x: 1390
+        y: 2043
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 153da74c2421dbf60800000000000000
+      internalID: 8051611786781840209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healing feedback - Copy_4
+      rect:
+        serializedVersion: 2
+        x: 1178
+        y: 1846
+        width: 133
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c47ad357d0b93c5a0800000000000000
+      internalID: -6502182954889009332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healing feedback - Copy_5
+      rect:
+        serializedVersion: 2
+        x: 2083
+        y: 1683
+        width: 365
+        height: 307
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef73b57bb53bae890800000000000000
+      internalID: -7427927428894607362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healing feedback - Copy_6
+      rect:
+        serializedVersion: 2
+        x: 2444
+        y: 1829
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 805ead9891a27b8c0800000000000000
+      internalID: -3983669056210541304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healing feedback - Copy_7
+      rect:
+        serializedVersion: 2
+        x: 2451
+        y: 1814
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60e802829ed30e3e0800000000000000
+      internalID: -2026551760706826746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healing feedback - Copy_8
+      rect:
+        serializedVersion: 2
+        x: 1115
+        y: 1733
+        width: 57
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b52ad92f32e4e6b40800000000000000
+      internalID: 5435367716584006235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healing feedback - Copy_9
+      rect:
+        serializedVersion: 2
+        x: 2449
+        y: 1789
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd0b6c717acb66870800000000000000
+      internalID: 8675829158020296923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healing feedback - Copy_10
+      rect:
+        serializedVersion: 2
+        x: 1850
+        y: 1760
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a94facc7e234e6d10800000000000000
+      internalID: 2120706341479314586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healing feedback - Copy_11
+      rect:
+        serializedVersion: 2
+        x: 1863
+        y: 1755
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6817b5dd5b03074f0800000000000000
+      internalID: -833112373402570362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healing feedback - Copy_12
+      rect:
+        serializedVersion: 2
+        x: 2323
+        y: 1681
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c6cb5cec9d68ca70800000000000000
+      internalID: 8847441988717102788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healing feedback - Copy_13
+      rect:
+        serializedVersion: 2
+        x: 2336
+        y: 1676
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f63350173121d4f80800000000000000
+      internalID: -8120814678369291409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healing feedback - Copy_14
+      rect:
+        serializedVersion: 2
+        x: 2412
+        y: 1554
+        width: 143
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7447859f7141e120800000000000000
+      internalID: 2441304489236841597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healing feedback - Copy_15
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 1268
+        width: 521
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 428bb678e1f387230800000000000000
+      internalID: 3636726099455227940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healing feedback - Copy_16
+      rect:
+        serializedVersion: 2
+        x: 1486
+        y: 1423
+        width: 140
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f92597b841e57d60800000000000000
+      internalID: 7887458024843192823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healing feedback - Copy_17
+      rect:
+        serializedVersion: 2
+        x: 1741
+        y: 1469
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f57ef4f086752de20800000000000000
+      internalID: 3373855175299032927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healing feedback - Copy_18
+      rect:
+        serializedVersion: 2
+        x: 1762
+        y: 1471
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cac594cfa73b011a0800000000000000
+      internalID: -6840770493175735124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healing feedback - Copy_19
+      rect:
+        serializedVersion: 2
+        x: 1775
+        y: 1464
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e70673143672f5b80800000000000000
+      internalID: -8403955072400662402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healing feedback - Copy_20
+      rect:
+        serializedVersion: 2
+        x: 1810
+        y: 1455
+        width: 277
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5df28f7dfde8ee800800000000000000
+      internalID: 643608888812777429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healing feedback - Copy_21
+      rect:
+        serializedVersion: 2
+        x: 1880
+        y: 1239
+        width: 269
+        height: 267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48c994716f21f27c0800000000000000
+      internalID: -4094032688094536572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healing feedback - Copy_22
+      rect:
+        serializedVersion: 2
+        x: 1439
+        y: 1434
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fb33a481613d5d20800000000000000
+      internalID: 3268823199447727089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healing feedback - Copy_23
+      rect:
+        serializedVersion: 2
+        x: 1653
+        y: 1261
+        width: 206
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f571daa977aa4ed0800000000000000
+      internalID: -2428944908014225929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healing feedback - Copy_24
+      rect:
+        serializedVersion: 2
+        x: 1445
+        y: 1421
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45d51b99e212a4d10800000000000000
+      internalID: 2110535859407248724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healing feedback - Copy_25
+      rect:
+        serializedVersion: 2
+        x: 2144
+        y: 1413
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12278365a69706ee0800000000000000
+      internalID: -1269881597298445791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healing feedback - Copy_26
+      rect:
+        serializedVersion: 2
+        x: 1443
+        y: 1400
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 298f90cbe5b31cbd0800000000000000
+      internalID: -2611741030830442350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healing feedback - Copy_27
+      rect:
+        serializedVersion: 2
+        x: 2151
+        y: 1399
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38c98f0984e878b10800000000000000
+      internalID: 1983710603200994435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healing feedback - Copy_28
+      rect:
+        serializedVersion: 2
+        x: 1651
+        y: 1380
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a325e0133c26f4a0800000000000000
+      internalID: -6560007209380142170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healing feedback - Copy_29
+      rect:
+        serializedVersion: 2
+        x: 1855
+        y: 1385
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4755f16bf95f3eb0800000000000000
+      internalID: -4737969346755340466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healing feedback - Copy_30
+      rect:
+        serializedVersion: 2
+        x: 1645
+        y: 1372
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64124a7856b487820800000000000000
+      internalID: 2916163658161856838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healing feedback - Copy_31
+      rect:
+        serializedVersion: 2
+        x: 1861
+        y: 1372
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f9f0a7f9348cc870800000000000000
+      internalID: 8704477564302850553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healing feedback - Copy_32
+      rect:
+        serializedVersion: 2
+        x: 1877
+        y: 1375
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1b678dac9fcec310800000000000000
+      internalID: 1427306403756206874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healing feedback - Copy_33
+      rect:
+        serializedVersion: 2
+        x: 2149
+        y: 1376
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e004f9509ef72bc70800000000000000
+      internalID: 8985384845355991054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healing feedback - Copy_34
+      rect:
+        serializedVersion: 2
+        x: 1870
+        y: 1365
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b6e7af6dc05423c0800000000000000
+      internalID: -4385291293880228174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healing feedback - Copy_35
+      rect:
+        serializedVersion: 2
+        x: 1469
+        y: 1342
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b086304b325ef95f0800000000000000
+      internalID: -747627071613474805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healing feedback - Copy_36
+      rect:
+        serializedVersion: 2
+        x: 1859
+        y: 1351
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffd3406af48a3e6a0800000000000000
+      internalID: -6421103583659016705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healing feedback - Copy_37
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 1008
+        width: 281
+        height: 311
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55036acad5591abe0800000000000000
+      internalID: -1467727773985001387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healing feedback - Copy_38
+      rect:
+        serializedVersion: 2
+        x: 1752
+        y: 1259
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 004a444536cab3bf0800000000000000
+      internalID: -343491403948186624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healing feedback - Copy_39
+      rect:
+        serializedVersion: 2
+        x: 1762
+        y: 1254
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2a2c809eb5cdb490800000000000000
+      internalID: -7728803963238340051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healing feedback - Copy_40
+      rect:
+        serializedVersion: 2
+        x: 1992
+        y: 1236
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bd62a34c68f14860800000000000000
+      internalID: 7512558797305572792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healing feedback - Copy_41
+      rect:
+        serializedVersion: 2
+        x: 2004
+        y: 1231
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 002c454023d03b1f0800000000000000
+      internalID: -1030465381265522176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healing feedback - Copy_42
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 1100
+        width: 76
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd57ac8b292adc1c0800000000000000
+      internalID: -4481747303114574369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healing feedback - Copy_43
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 1174
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fefa481a31ee7cd20800000000000000
+      internalID: 3298867020153794543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healing feedback - Copy_44
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 1010
+        width: 172
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2de07d7ebfe54c70800000000000000
+      internalID: 8954827035523476781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healing feedback - Copy_45
+      rect:
+        serializedVersion: 2
+        x: 2219
+        y: 850
+        width: 448
+        height: 371
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2db65096181796bc0800000000000000
+      internalID: -3789372810828878894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healing feedback - Copy_46
+      rect:
+        serializedVersion: 2
+        x: 1299
+        y: 1130
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39d00abd9a2db2dd0800000000000000
+      internalID: -2509680740352914029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healing feedback - Copy_47
+      rect:
+        serializedVersion: 2
+        x: 1345
+        y: 1082
+        width: 72
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2f780a5dde3d5220800000000000000
+      internalID: 2476204490542841645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healing feedback - Copy_48
+      rect:
+        serializedVersion: 2
+        x: 1305
+        y: 1118
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d125cd8f0f8a9670800000000000000
+      internalID: 8546300539854725584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healing feedback - Copy_49
+      rect:
+        serializedVersion: 2
+        x: 1478
+        y: 909
+        width: 189
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55247a0cf405bfc60800000000000000
+      internalID: 7852958678715417173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healing feedback - Copy_50
+      rect:
+        serializedVersion: 2
+        x: 1788
+        y: 1105
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cfdbd5e0889ec3c0800000000000000
+      internalID: -4337361711731580988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healing feedback - Copy_51
+      rect:
+        serializedVersion: 2
+        x: 1303
+        y: 1097
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d61852a118796910800000000000000
+      internalID: 1831126740636276439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healing feedback - Copy_52
+      rect:
+        serializedVersion: 2
+        x: 1198
+        y: 1006
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c60e9af518b35f5b0800000000000000
+      internalID: -5335292756708695956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healing feedback - Copy_53
+      rect:
+        serializedVersion: 2
+        x: 1208
+        y: 1002
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13c3ae934729070a0800000000000000
+      internalID: -6885842802363974607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healing feedback - Copy_54
+      rect:
+        serializedVersion: 2
+        x: 1417
+        y: 1003
+        width: 74
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89a880068ca52df60800000000000000
+      internalID: 8057602499970370200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healing feedback - Copy_55
+      rect:
+        serializedVersion: 2
+        x: 1769
+        y: 781
+        width: 320
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60d20e236e94a80c0800000000000000
+      internalID: -4572761218596459258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healing feedback - Copy_56
+      rect:
+        serializedVersion: 2
+        x: 1965
+        y: 1000
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b3b25f5df4def790800000000000000
+      internalID: -7494318545206856784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healing feedback - Copy_57
+      rect:
+        serializedVersion: 2
+        x: 1987
+        y: 1002
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ed99bf922dcbf190800000000000000
+      internalID: -7927517170463302169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healing feedback - Copy_58
+      rect:
+        serializedVersion: 2
+        x: 2001
+        y: 995
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16ecc69909e84a0d0800000000000000
+      internalID: -3412445865939513759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healing feedback - Copy_59
+      rect:
+        serializedVersion: 2
+        x: 1577
+        y: 912
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4941f87e7f3cfd5d0800000000000000
+      internalID: -3035492154315172716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healing feedback - Copy_60
+      rect:
+        serializedVersion: 2
+        x: 2084
+        y: 912
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 813043d5520914490800000000000000
+      internalID: -7763765792458145000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healing feedback - Copy_61
+      rect:
+        serializedVersion: 2
+        x: 2091
+        y: 898
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38983c36bf37d77b0800000000000000
+      internalID: -5224892469132162685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healing feedback - Copy_62
+      rect:
+        serializedVersion: 2
+        x: 2177
+        y: 895
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ae7ad13cecb99cb0800000000000000
+      internalID: -4856643000507662683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healing feedback - Copy_63
+      rect:
+        serializedVersion: 2
+        x: 2199
+        y: 897
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 113d723ed7e44e820800000000000000
+      internalID: 2946566358796063505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healing feedback - Copy_64
+      rect:
+        serializedVersion: 2
+        x: 2085
+        y: 677
+        width: 215
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c9be6d3f13d601d0800000000000000
+      internalID: -3384785938794235453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healing feedback - Copy_65
+      rect:
+        serializedVersion: 2
+        x: 2213
+        y: 890
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8e042a6ff9bac790800000000000000
+      internalID: -7508984922038333814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healing feedback - Copy_66
+      rect:
+        serializedVersion: 2
+        x: 2296
+        y: 807
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00fcc70127aff8e60800000000000000
+      internalID: 7966861633651527424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healing feedback - Copy_67
+      rect:
+        serializedVersion: 2
+        x: 1063
+        y: 700
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27bc808af4e35eb70800000000000000
+      internalID: 8927610348174363506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healing feedback - Copy_68
+      rect:
+        serializedVersion: 2
+        x: 2303
+        y: 794
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8cd6604b7b371360800000000000000
+      internalID: 7140241134766709898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healing feedback - Copy_69
+      rect:
+        serializedVersion: 2
+        x: 1976
+        y: 779
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c2f35d65b89295a0800000000000000
+      internalID: -6515977805860965695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healing feedback - Copy_70
+      rect:
+        serializedVersion: 2
+        x: 1987
+        y: 775
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b60f58d5d58174410800000000000000
+      internalID: 1461163393385099371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healing feedback - Copy_71
+      rect:
+        serializedVersion: 2
+        x: 2300
+        y: 772
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce4d21190de261a00800000000000000
+      internalID: 726819863188919532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healing feedback - Copy_72
+      rect:
+        serializedVersion: 2
+        x: 1171
+        y: 390
+        width: 575
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35f1e503917b22d30800000000000000
+      internalID: 4405284704335306579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healing feedback - Copy_73
+      rect:
+        serializedVersion: 2
+        x: 1811
+        y: 580
+        width: 125
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fabd8c81dde821a0800000000000000
+      internalID: -6833950950272681223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healing feedback - Copy_74
+      rect:
+        serializedVersion: 2
+        x: 2188
+        y: 675
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 617dd174acea942c0800000000000000
+      internalID: -4446830973251889386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healing feedback - Copy_75
+      rect:
+        serializedVersion: 2
+        x: 2199
+        y: 671
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baa974855760f2a50800000000000000
+      internalID: 6498419888380943019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healing feedback - Copy_76
+      rect:
+        serializedVersion: 2
+        x: 1079
+        y: 499
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d0dcb31571bd2750800000000000000
+      internalID: 6281872171652141273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healing feedback - Copy_77
+      rect:
+        serializedVersion: 2
+        x: 1749
+        y: 498
+        width: 101
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 913eed373694ab0c0800000000000000
+      internalID: -4559250981264628967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healing feedback - Copy_78
+      rect:
+        serializedVersion: 2
+        x: 1849
+        y: 427
+        width: 147
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e1aa73128b9ea190800000000000000
+      internalID: -7949245309287489049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healing feedback - Copy_79
+      rect:
+        serializedVersion: 2
+        x: 1961
+        y: 548
+        width: 93
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 279df0ecd919fce90800000000000000
+      internalID: -7003218788584793742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healing feedback - Copy_80
+      rect:
+        serializedVersion: 2
+        x: 2170
+        y: 473
+        width: 153
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09bde35332a981590800000000000000
+      internalID: -7703237686609388656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healing feedback - Copy_81
+      rect:
+        serializedVersion: 2
+        x: 1330
+        y: 197
+        width: 131
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1734a7fb3d3a61520800000000000000
+      internalID: 2672503558736855921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

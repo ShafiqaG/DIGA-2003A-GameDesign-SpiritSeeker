@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      TBC screen_0: -8209122432724096722
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

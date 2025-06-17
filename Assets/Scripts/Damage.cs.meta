@@ -1,2 +1,14 @@
 fileFormatVersion: 2
 guid: 82ca6a4ef33e5ca48aa07fc405ebae64
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - pHealth: {instanceID: 0}
+  - damageParticlesPrefab: {fileID: 9114107003945175681, guid: ea7831043236b674f9dc5c3edd05379e, type: 3}
+  - healingParticlesPrefab: {fileID: 7583858634153932924, guid: 8b8547c42ef1c4f46a0b8cc90fe79a1d, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

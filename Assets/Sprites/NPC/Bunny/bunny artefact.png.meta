@@ -497,7 +497,22 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      bunny artefact_0: 3720555826082300150
+      bunny artefact_1: 8617680637157584106
+      bunny artefact_10: -2141167301032658591
+      bunny artefact_11: 6052594631372508771
+      bunny artefact_12: 6853954807460916526
+      bunny artefact_13: 88899342629501178
+      bunny artefact_14: 2336771218371816782
+      bunny artefact_2: 3154522742877727566
+      bunny artefact_3: -200628913553413844
+      bunny artefact_4: -8610129988888396076
+      bunny artefact_5: 5611740207054392134
+      bunny artefact_6: -5670508692051285119
+      bunny artefact_7: 6197628048209745193
+      bunny artefact_8: 8847288808359943095
+      bunny artefact_9: -6503769464372657961
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

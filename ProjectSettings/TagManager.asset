@@ -60,5 +60,8 @@ TagManager:
   - name: Spikey Cactus
     uniqueID: 4068847863
     locked: 0
+  - name: Background
+    uniqueID: 2922823541
+    locked: 0
   m_RenderingLayers:
   - Default
