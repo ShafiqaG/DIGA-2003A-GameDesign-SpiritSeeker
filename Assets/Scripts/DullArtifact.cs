@@ -8,7 +8,7 @@ public class DullArtifact : MonoBehaviour
     {
         if (collision.CompareTag("Dull Artifact"))
         {
-            DullArtifacts.SetActive(true);
+            DullArtifacts.SetActive(true); 
 
         }
     }

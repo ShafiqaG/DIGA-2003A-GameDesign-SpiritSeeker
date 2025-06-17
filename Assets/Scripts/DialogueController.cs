@@ -21,7 +21,7 @@ public class DialogueController : MonoBehaviour
         dialoguePanel.SetActive(show); //sets the ui visibility 
     }
 
-    public void SetNPCInfo(string npcName, Sprite portrait)
+    public void SetNPCInfo(string npcName, Sprite portrait) //shows the npc's information (dialogue box with info)
     {
         nameText.text = npcName;
         portraitImage.sprite = portrait;
@@ -39,10 +39,11 @@ public class DialogueController : MonoBehaviour
 
     public void CreateChoiceButton(string choiceText, UnityEngine.Events.UnityAction onClick)
     {
-        GameObject choiceButton = Instantiate(choiceButtonPrefab, choiceContainer);
+        GameObject choiceButton = Instantiate(choiceButtonPrefab, choiceContainer); //choice buttons
         choiceButton.GetComponentInChildren<TMP_Text>().text = choiceText;
         choiceButton.GetComponent<Button>().onClick.AddListener(onClick);
         return;
     }
 
-} 
+} //Create a dialogue System with branching codes- Game Code Library 
+  //Accessed the 12th of June

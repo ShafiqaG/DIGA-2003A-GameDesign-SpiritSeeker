@@ -63,4 +63,6 @@ public class QuestProgress
     public bool IsCompleted => objectives.TrueForAll(o => o.IsCompleted);
 
     public string QuestID => quest.questID;
-}
+} 
+//Create a quest system with Scriptable Objects (Game Code Library)
+//Accessed 13th June

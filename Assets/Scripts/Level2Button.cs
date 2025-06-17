@@ -5,6 +5,6 @@ public class Level2Button : MonoBehaviour
 {
     public void PlayGame()
     {
-        SceneManager.LoadSceneAsync("Level 2");
+        SceneManager.LoadSceneAsync("Congratulations"); //Loads congratulations scene
     }
 }

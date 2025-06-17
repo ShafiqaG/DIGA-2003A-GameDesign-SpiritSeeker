@@ -64,8 +64,11 @@ public class ItemDragHandler : MonoBehaviour, IBeginDragHandler,IDragHandler, IE
         GetComponent<RectTransform>().anchoredPosition = Vector2.zero;
     }
 
-   
+    //unused script - inventory backup idea
+    //Drag and Drop Inventory UI- Top Down Unity 2D
+    //Accessed 13th June
 
-    
-    
+
+
+
 }

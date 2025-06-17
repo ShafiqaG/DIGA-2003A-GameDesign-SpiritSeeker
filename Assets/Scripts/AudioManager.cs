@@ -18,6 +18,7 @@ public class AudioManager : MonoBehaviour
     public AudioClip gameover;
     public AudioClip level2unlocked;
     public AudioClip RegainingHealth;
+    public AudioClip Congratulations;
 
     private void Start()
     {

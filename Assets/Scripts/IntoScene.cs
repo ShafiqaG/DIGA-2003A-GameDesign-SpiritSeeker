@@ -3,8 +3,8 @@ using UnityEngine.SceneManagement;//switches scenes
 
 public class IntoScene : MonoBehaviour
 {
-    public void PlayGame() //if player clicks the arrow level 1 will load
+    public void PlayGame() //if player clicks the arrow How To Play will load
     {
-        SceneManager.LoadSceneAsync("Level 1");
+        SceneManager.LoadSceneAsync("How To Play");
     }
 }

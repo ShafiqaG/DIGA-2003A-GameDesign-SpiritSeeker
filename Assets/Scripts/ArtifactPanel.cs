@@ -8,7 +8,7 @@ public class ArtifactPanel : MonoBehaviour
     {
         if (collision.CompareTag("Artifact"))
         {
-            Artifact.SetActive(true);
+            Artifact.SetActive(true); //opens panel if player collides with special artifact
            
         }
     }

@@ -16,10 +16,13 @@ public class TabController : MonoBehaviour
         for(int i = 0; i < pages.Length; i++)
         {
             pages[i].SetActive(false);
-            tabImages[i].color = Color.grey;
+            tabImages[i].color = Color.grey; //turns the remaining tabs grey when selecting specific tab
         }
         pages[tabNo].SetActive(true);
-        tabImages[tabNo].color = Color.white;   
+        tabImages[tabNo].color = Color.white;
+
+        ////Create a quest log with scroll and view and reactive layout (Game Code Library)
+        //Accessed 13th June
     }
-   
+
 }

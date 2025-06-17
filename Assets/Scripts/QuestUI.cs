@@ -42,5 +42,9 @@ public class QuestUI : MonoBehaviour
                 objText.text = $"{objective.description} ({objective.currentAmount}/{objective.requiredAmount})";
             }
         } //note to self: some of this code can be deleted, the test quest code, but it's always a good idea to keep it here and test incase something goes wrong 
+
+        //Create a quest log with scroll and view and reactive layout (Game Code Library)
+        //Accessed 13th June
+
     }
 }

@@ -62,7 +62,7 @@ public class NPC : MonoBehaviour, IInteractable
         DisplayCurrentLine();
     }
 
-    private void SyncQuestState()
+    private void SyncQuestState() //Syncs quest start, end and progress times with npc dialogues
     {
         if (dialogueData.quest == null) return;
 
@@ -170,4 +170,5 @@ public class NPC : MonoBehaviour, IInteractable
         dialogueUI.SetDialogueText("");
         dialogueUI.ShowDialogueUI(false);
     }
-}
+} //NPC quest giver with changing dialogue lines- Top Down Unity 2D (Game Code Library)
+  //Accessed 13th June

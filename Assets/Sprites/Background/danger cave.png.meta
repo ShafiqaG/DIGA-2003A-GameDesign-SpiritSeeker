@@ -197,7 +197,10 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      danger cave_0: -1756265851744199649
+      danger cave_1: 3073591580200081359
+      danger cave_2: 2497149476712952035
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -10,7 +10,7 @@ public class ButtonSetupWaterOrb : MonoBehaviour
     {
        if (waterorbButton != null && WaterOrb != null)
         {
-            waterorbButton.onClick.AddListener(OpenPanel);
+            waterorbButton.onClick.AddListener(OpenPanel); //opens panel on click
         }
     }
     void OpenPanel()

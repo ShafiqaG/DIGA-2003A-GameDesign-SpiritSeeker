@@ -7,7 +7,7 @@ public class ButtonSetup : MonoBehaviour
 
     void Start()
     {
-        blossomButton.onClick.AddListener(() => dullArtifacts.SetActive(true));
+        blossomButton.onClick.AddListener(() => dullArtifacts.SetActive(true)); 
     }
 
     

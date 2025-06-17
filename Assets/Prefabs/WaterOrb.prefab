@@ -12,10 +12,8 @@ GameObject:
   - component: {fileID: 6259231336983418872}
   - component: {fileID: 7100501825443491308}
   - component: {fileID: 8430199617677377683}
-  - component: {fileID: 5646130997803728352}
   - component: {fileID: 1731618205675017170}
   - component: {fileID: -6700026282322317200}
-  - component: {fileID: 5482264562707432452}
   m_Layer: 5
   m_Name: WaterOrb
   m_TagString: Untagged
@@ -125,18 +123,6 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 0}
-        m_TargetAssemblyTypeName: WaterOrbPane, Assembly-CSharp
-        m_MethodName: OpenPanel
-        m_Mode: 1
-        m_Arguments:
-          m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 0
-          m_FloatArgument: 0
-          m_StringArgument: 
-          m_BoolArgument: 0
-        m_CallState: 2
-      - m_Target: {fileID: 0}
         m_TargetAssemblyTypeName: UnityEngine.AudioSource, UnityEngine
         m_MethodName: Play
         m_Mode: 1
@@ -148,20 +134,6 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
---- !u!114 &5646130997803728352
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1531851281029915548}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 2608dff6c463eef47a32b6cbe3046123, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  waterorbButton: {fileID: 8430199617677377683}
-  WaterOrb: {fileID: 0}
 --- !u!61 &1731618205675017170
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -235,16 +207,3 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 0
   m_Constraints: 0
---- !u!114 &5482264562707432452
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1531851281029915548}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 4bebca351dd605049b91e9f831643d63, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  message: Water

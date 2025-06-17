@@ -77,6 +77,11 @@ public class InventoryController : MonoBehaviour
         }
        // Debug.Log("Inventory is full");
        // return false;
+
+        //this script is used as a backup inventory script in case the original inventory causes problems again
+
+        //Drag and Drop Inventory UI- Top Down 2D (Game Code Library)
+        //Accessed 13th June
     }
     
 

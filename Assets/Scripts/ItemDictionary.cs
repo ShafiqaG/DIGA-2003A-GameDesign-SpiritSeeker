@@ -32,5 +32,7 @@ public class ItemDictionary : MonoBehaviour
         }
         return prefab;
     }
-
+    //Unused inventory linked script 
+    //Drag and Drop Inventory UI- Top Down Unity 2D
+    //Accessed 13th June
 }

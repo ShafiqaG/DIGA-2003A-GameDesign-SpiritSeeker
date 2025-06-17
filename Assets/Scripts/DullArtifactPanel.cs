@@ -7,7 +7,7 @@ public class DullArtifactPanel : MonoBehaviour
     {
         panel.SetActive(false);
     }
-
+    //Opens and closes panel
     public void OpenPanel()
     {
         panel.SetActive(true);
