@@ -22,8 +22,8 @@ MonoBehaviour:
     the amulet.
   - Once you have it, you can leave the gates.
   - Goodluck on your special journey, you may leave once you have the amulet.
-  autoProgressLine: 0101000000
-  endDialogueLines: 0000000001
+  autoProgressLine: 010100000001
+  endDialogueLines: 000000000101
   autoProgressDelay: 1.5
   typingSpeed: 0.05
   choices:

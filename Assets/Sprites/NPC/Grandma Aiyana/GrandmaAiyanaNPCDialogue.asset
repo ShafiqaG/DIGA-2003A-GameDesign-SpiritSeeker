@@ -24,8 +24,8 @@ MonoBehaviour:
   - A youthful spirit like yours should not be so forgetful.
   - Oh...see you later dear child.
   - Special artifacts reflect blue energy, try looking around the totem poles.
-  autoProgressLine: 010100000101
-  endDialogueLines: 0000000101010001
+  autoProgressLine: 01010000010101
+  endDialogueLines: 00000001010101
   autoProgressDelay: 1.5
   typingSpeed: 0.05
   choices:
